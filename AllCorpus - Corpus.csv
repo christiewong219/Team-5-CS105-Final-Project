@@ -1,0 +1,811 @@
+doc_id,text,category_1,category_2,sentiment
+1,Trump's presidency has been tattered with scandal after scandal and corruption. Our weak and ineffective represenatives in goverment have abdicated their duty to impeach him.,1,none,Negative
+2,"My machine learning course has been really enjoyable since we delve deep into the maths of it all including backpropagation. Even some of the simpler things like normilzation, svm, and tree methods have been cool to learn about.",2,none,Positive
+3,"The plot of the final season of The Boys has been disappointing as it lacks meaningful pacing. Additonally the dialogue between Sage and Frecnchie was trite, relying on bog standard tropes which feels out of place for a show that pushes boundaries.",3,none,Negative
+4,"I enjoy getting learning about strength training. Understanding macros. rpe, and progressive overload signficantly improved my results.",4,none,Positive
+5,"It's concerning our government is partnering with Palantir. Articles have reported on potential risks of their software being used for domestic surveillance. If that were to happen, that'd be a massive infringment on the public's rights. The scale at which they'd be able to scrape, aggregate, and prceisely target dissidents would be unheard of.",1,2,Negative
+6,Modern workout apps are excellent in how they blend a seemless UX with analysis and statistics. Being able to track your fitness journey like exercise and then visualize progress overtime is really satisfying. Additionally they support serveral modalities which helps with longevity and sustainability. Their cross-platofrm deployment ensure esuers can track their hypertrophy no matter what.,2,4,Positive
+7,Democrats will elect a strong candidate in 2028. They will need to be a visionary running on reform and accountability to restore the nation's integrity.,1,none,Positive
+8,"Viewing a series for entertainment depends on software over a stable network. While latency and throughput are technical backend or stack concerns, the viewer focuses on the narrative, symbolism, fable, and biography.",2,3,Neutral
+9,"The machine system utilizes background processing and custom logic within the app settings. It monitors the home pantry to catalog stock, check appliances, and scan every cabinet for a suitable cuisine.",2,5,Neutral
+10,"The mayor's new reform ordinance updates municipality legislation for all constituents. It focuses on medical rehabilitation and therapy for any major injury by incorporating modern orthopedics, biomechanics, and kinesiology.",1,4,Neutral
+11,I want to become mayor of Riverside. My ballots can be located in all Target bathrooms and I will advocte for better air conditioning.,1,none,Neutral
+12,My python assignment would not run. I kept checking the terminal and notebook and it was so frustrating.,2,none,Negative
+13,I listened to the song The One That Got Away at the gym. I had the song on repeat because the chorus and Katy's verse is peak.,3,none,Positive
+14,My health has has improved lately. I started taking supplements and tracking my calories.,4,none,Positive
+15,My dog Lucky naps before I get back from school. He curls up by his blanket and waits for me to feed him kibble.,5,none,Neutral
+16,"Instead of hiring real people for my mayoral campaign, I used Claude agents as my volunteers and staff. The software helps but I have no one to place physical signs",1,2,Neutral
+17,"The horror movie Obsession is so good because the actors did a great job. My heartbeat was fast from the adrenaline, so I could not sleep afterwards.",3,4,Positive
+18,I pushed my code and somehow made the branch look weird. I ate ramen with chopsticks for lunch while I pretended everything in the repo was fine.,2,5,Neutral
+19,The model suggested a recipe using random leftovers in my refridgerator. I saved what it said onto a spreadsheet on my laptop.,2,5,Neutral
+20,I watched an episode of an anime while my mom made tomato soup. The remote died before the grilled cheese sandwich was ready so we just kept watching.,3,5,Neutral
+21,"Inflation is out of control, caused in part by a president attempting to hide that he is a pedophile. His attempts to control the situation are weak and harmful to our country.",1,none,Negative
+22,"I think I will vote for my cat to be president of the USA. At least he will be effective at getting what he wants, which is mostly head pats and treats.",1,5,Positive
+23,Frieren: Beyond Journey’s End is an animated show about what it is like to grow older and watch the world change around you.,3,none,Neutral
+24,"My cats love to help me program. They get excited when I am successful in catching bugs, but mostly flick their tails and meow while I fix errors in C++.",2,5,Positive
+25,"It is strange to me how interconnected the body and mind are. Workouts focus on your physical wellbeing, but they also improve mental clarity.",4,none,Positive
+26,"With the economy in shambles, and the problematic stances on immigration, the coverage of the Republican party should be exclusively known as the Guardians of Pedophiles (GOP).",1,none,Negative
+27,"Despite getting older, my kitties both still play regularly. They catnap most of the day, but their routine involves plenty of physical stimulation.",4,5,Neutral
+28,"Initially, I thought CS 111 would be about coding, software engineering, and recursive algorithms. It was a surprise to find out it was a math class masquerading as Computer Science.",2,none,Neutral
+29,"The musician Immortal Technique raps about the concerning trends of the nation, the negative views of many on immigration, and media acting like an agent of the state.",1,3,Negative
+30,"One of the hardest parts of having furbabys is watching their stamina deteriorate. When their energy levels become weaker, and they have difficulty with mobility, comes the true test of being a cat/dog caretaker.",4,5,Negative
+31,My dog is a small Jack Russell and a chihuahua. She only eats her favorite food at dinner time which is bananas and chicken.,5,none,Neutral
+32,"Data Science has always interested me as I've always had an interest in computers and technology. It is exciting to learn about cloud analysis, algorithms, and training models.",2,none,Positive
+33,"I do not watch that much TV or read literature often, as I only remember reading Shakespeare, specifically Macbeth. I don't feel a specific way about a certain poem, author, or comedy.",3,none,Neutral
+34,"I often feel negative when hearing about current news in the media. The wars over the world, especially in Palestine and Ukraine, make me wish for global peace.",1,none,Negative
+35,I used to exercise very often by performing strength training along with walking. Now I feel like my health is more poor than before as I don't take my vitamins such as creatine as well.,4,none,Negative
+36,"I do not feel strong emotions when washing tupperware in the kitchen and cleaning grime off the walls. My emotions towards network, hardware, and storage in robotics and school labs are also neutral.",5,2,Neutral
+37,"I believe there can be positive changes in the government, the economy, and inflation with the rise in machine learning and automation. Artificial intelligence can be used to help predict the stock market and help the economy.",1,2,Positive
+38,"I feel happy walking, running, sprinting, and playing soccer with my dog for exercise. After, we both come home and eat a meal in the kitchen, which usually consists of beef and kiwis.",4,5,Positive
+39,"It is frustrating to program when there is a bug in the code and the output is broken, especially in the memory. Debugging leads to mental stress especially with the strain on your fingers and eyes.",2,4,Negative
+40,"I feel happy when I have good sleep, high energy, and play basketball and baseball. I feel happy playing with my dog in the yard and cooking dinner in the kitchen for my housemates.",4,5,Positive
+41,"My dog's name is Rocky. He loves to stay at home and just enjoy life, play catch, and pets.",5,none,Positive
+42,I do not keep up with the news as much as I should. Debates usually annoy me because people don't listen to one another and just argue rather than having a discussion,1,none,Nuetral
+43,I loved learning CS in high school with my favorite teacher. He explained how to code with games which made me understand it very well and he made it fun as well.,2,none,Positive
+44,"I love going to the gym, it's part of my dailty routine and I feel unaccomplished if I don't go. I love seeing my friends with the same mindeset and goals and trying to be better versions of themselves. ",4,none,Positive
+45,Dealing with bugs during test of a feature is the worst because it can either be a single typo or something completely different. Using AI for testing my code is one of the best things I have done because it saves me time.,2,none,Negative
+46,"Rocky loves walking with my everyday. We both love flavorfull cooking and we often share meals together. He always brings a smile to my face whenever I am stressed or sad. When he cuddles me, hes always warm because of his fur which is awesome.",5,4,Positive
+47,"When I am at the gym training, I love to listen to music and stay focused in. My main artist currently would be The Weeknd. His songs just hit the spot when I need them. I constantly switch between rock, rap and lyrical depending on my mood.",4,3,Positive
+48,The war currently going on has major issues on our economy making everything expensive. The statistics clearly show war being a major influence on the public's finances and all their tax money is going straight to that war.,1,2,Negative
+49,"Due to the war, food, groceries and simple things are very expensive. As inflation rises, so does our wage which puts businesses in a terrible situation. I try to not get involved in politics, but there should be peace in order for everyone to be happy.",1,5,Nuetral
+50,"Me going to the gym everyday is like an algorthm which runs in a loop everyday. If that loop has a bug it won't run as intended and I would need to put it into testing and fix it. So, if I have an injury, I won't be able to to train and I would be in recovery in order to get back to my routine.",2,5,Negative
+51,"Her background in classical singing contrasts beautifully with her noisy and experimental music. Her vocal performance glides gracefully between head voice and chest voice, carrying listeners to the edges where emotional excesses break into catharsis.",3,,Positive
+52,The rhythm and instrumentation are so bad that it’s like if a mind eating parasite took over the brain of an industrial artist and is slowly gnawing away at their consciousness. The lyricism is incomprehensible word salad that sounds like it's trying way too hard to be deep.,3,,Negative
+53,"The novel is told through fragments, with each chapter not including page breaks to convey the sense of fragmentation and double bookkeeping in the mental state of the protagonist. The chapters are not organized in chronological order, leaving the reader adrift, struggling to piece together a coherent narrative, just like the main character. ",3,,Neutral
+54,"The most satisfying dessert you could ever hope to cook needs just five ingredients. You might need to go to the store to buy them, but the recipe is wonderful for something so simple to make.",5,,Positive
+55,"The poem has lines so long that each stanza becomes like a paragraph, making it frustrating and an utter slog to read. It's almost like prose instead of poetry. It lacks the flow of poetry that demands itself to be spoken, or at least subvocalized, not merely read.",3,,Negative
+56,I’m concerned that my cat is sick so I took her to the vet clinic. I explained to the vet that she doesn’t have any energy anymore and is moving more slowly than normal and not eating the food in her bowl. She isn't even using her scratching post or meowing incessantly like she usually does. The vet gave me medication but my cat hates taking medication so I wrapped the pills the vet gave me in cat treats.,4,5,Negative
+57,"The movie’s exciting climax is the iconic scene of the character Margot eating the chef’s cheeseburger. Cooking it reminds the chef of his first job at a fast food restaurant where he enjoyed serving people simple food that they enjoy and discovered his passion for culinary arts. Margot's pleasure in eating the cheeseburger is purely aesthetic rather than semiotic or intellectual, and the chef is satisfied that she appreciates his food for what it is, rather than what it represents. Ironically, the cheeseburger becomes a symbol in itself, but in the context of the movie rather than the context of the fictional restaurant.",3,5,Positive
+58,"Both the logistic regression and the unsupervised model we programmed confirmed the validity of the blood sugar cutoff for pre-diabetes. Combined with other biometrics like age, BMI, and blood pressure, the model predicted future diagnoses of diabetes in the testing group with 87% recall. This information about what patients are most at risk is important for both doctor and patient.",2,4,Neutral
+59,"The second candidate is well liked because he promises to implement effective strategies to end child hunger as a part of his campaign for governor. In a recent interview, he argues for a shared food pantry and free lunch and after-school snacks for schools in low-income neighborhoods. If he is elected, we may start to see actual change instead of false promises, which we desperately need in this economy. For these reasons, I endorse him and I think he will be an excellent governor if he is elected.",1,5,Positive
+60,"I do a lot to keep my pet dog healthy, which also helps keep me healthy. I put on his leash and go walking to exercise and release all his energy so he’s not all cooped up in the apartment. I'm mostly sedentary, so walking my dog is a rare chance for me to get some fresh air. We usually play fetch at the park or in the grassy fields outside the apartment complex with his favorite toy if the weather is nice. If the weather is bad, I try to walk him inside, which is harder when my apartment is so small.",4,5,Neutral
+61,Recent news reports discussed successful peace treaty and ceasefire negotiations during the current war crisis involving Iran and global government officials.,1,none,Positive
+62,"Professors have become overworked and stressed as students report difficulty finding and maintaining jobs due to AI, software automation, and data science changes.",2,none,Negative
+63,"Many students watch television shows, read fan fiction, and search for actors on Google as a form of entertainment during their free time.",3,none,Neutral
+64,Studies have shown that happier and healthier participants improve sleep when they build an exercise routine and practice mindful eating.,4,none,Positive
+65,"It was too late, the owner realized that his dog slipped off the leash and attacked him, causing a serious injury.",5,none,Negative
+66,News headlines reported that software engineers use Python and machine learning models on the daily to update public data systems.,1,2,Neutral
+67,The students were excited to present new algorithms and machine learning models that classify streaming platforms by the best-performing genre with the highest 5-star reviews.,2,3,Positive
+68,"During filming for Mission Impossible, the actor Tom Cruise and actress  Rebecca Ferguson were severely injured after a stunt scene on an airplane went wrong, and were taken to the nearest doctor",3,4,Negative
+69,"Many athletes who are runners balance cardio exercise, diet through meal prep by following recipes, and training to maintain their physique to perform in sports.",4,5,Neutral
+70,"The local journalist had a pleasant time interviewing the family at the busy new cat cafe serving fresh breakfast, pasteries, and drinks.",5,1,Positive
+71,"News, media and article headlines create a concerning and stressful environment during a global crisis. This creates a state of anxiety, exhaustion and helplesness",1,4,negative
+72,"During an electoral campaign candidates discuss policy on tax, immigration, war and the economy during a public interview. These interviews provides voters with information about the candidate's position on national issues ",1,none,neutral
+73,"A new model uses clustering variables and training data to predict trends in global economic crises, but testing results are disappointing.",2,1,negative
+74,A new software system is being developed to use database records and regression analysis to predict future movement  activity and physical recovery levels,2,4,neutral
+75,Authors usually draw characters from real life experiences and turn them into multi-dimentional fictional figures which help carry the narrative of the novel forward  ,3,none,neutral
+76,Many people prefer to watch series that has a light hearted genre like comedy or fantasy which creates a positive and enjoyable experience,3,none,positive
+77,"Recently health and fitness have been a very popular conversation but they are concerning because it is focused on aesthetic goals instead of long term wellness, ignoring important signs like hormonal balance and cardiovascular ",4,none,negative
+78,Doctors advise families to improve their health through physical activity and healthy home cooked meals ,4,5,positive
+79,Families enjoy cooking meals together in the kitchen while listening to music or watching a comedy series together ,5,3,positive
+80,"Pet owners buy a leash, toy, bowl for their dog or cat to keep them happy",5,none,positive
+81,"Senators clashed over the new tax reform bill, with no clear vote by the end of the session. While the developers were arguing about migrating to a new cloud infrastructure. ",1,none,neutral
+82,"Under government pressure to meet the deadline, the model kept crashing due to a persisting glitch that no one could debug or explain.",2,none,negative
+83,"The album got almost no attention at first, but the tracklist went viral through social media. Each track in the album had its own vibe that made a real breakthough and kept it trending for weeks. ",3,none,positive
+84,"After a thorough follow-up appointment, the doctor prescribed the patient with an updated prescription, and the patient reported that they were doing much better compared to before.",4,none,positive
+85,"The unsupervised dog chewed through the least, and this resulted in a fall that caused a minor injury that put a lot of strain on what was already stressful day, which also created a real hazard. ",5,none,negative
+86,"The mayor pushed through another round of budget cuts that left nearby clinics severly underfunded, and many residents in that area no longer have accessible care. ",1,4,negative
+87,A journalist wrote a Python script that goes through city records and built a visual that presents the findings. This gave readers useful insights into where the money was going and how it was being utilized. ,1,2,positive
+88,"The new series follows a retired athelete who follows a strict recovery reginmen, but the slow pace and constant dragging made it a pretty disappointing watch. However, it was still pretty insightful. ",3,4,neutral
+89,"The recommendation algorithm kept making irrelevant suggestions based on a mismatch with the user's actual grocery preference, which was pretty frustrating.",2,5,negative
+90,"In the novel, the main character spends most of their evenings reheating leftover rice on the countertop and bickering with their pet on who gets the last bit of it. ",3,5,neutral
+91,The local media covered all potential nominees for county representative. ,1,None,Neutral
+92,"During their first python exam, the students strruggled converting integers to a float value, and they found it frustrating. ",2,None,Negative
+93,"At her first book release, the author promised for the release of a triology, which made fans excited. ",3,None,Postive
+94,"To maintian his vitality, the elderly man exercised everyday and did streches every morning. ",4,None,Neutral
+95,"The adorable cat, walked over to the neighbor's cottage for brunch, which made them elated. ",5,None,Postive
+96,The news bulletin had an announcement about how the new film had poor reviews because of lack luster picturization. ,1,3,Negative
+97,The new cybersecurity graduates found that the app meant to record health information was creating bad datasets based on the user.  ,2,4,Negative
+98,The doctor recommended daily walks for the dog to improve immunity and reduce the effects of fatigue. ,4,5,Positive
+99,"After the server crashed, a technical support staff member was able to fix it, which allowed for the documentary to resume filming. ",2,3,Neutral
+100,"The governor teamed up with the local animal shelter to promote adoption of dogs and cats, and he was successful in his efforts. ",1,5,Positive
+101,"A successful recipe book includes the ingredients needed to make breakfast, lunch, and dinner recipes.",-1,,
+102,"Those in the United States government had a discussion about new policies, laws, and budgets.",-1,,
+103,Poor sleep will negate all exercise completed in a day since sleep is crucial for proper recovery.,-1,,
+104,The computer science student created an excellent database of the most positvely-rated novels in history.,-1,,
+105,The main actor and actress from the disappointing television series got on a news interview to update their viewers about the ongoing issues.,-1,,
+106,A popular news article claims that a positive apartment includes a family with at least one happy pet.,-1,,
+107,The intern at the local pilates studio made an algorithm to track all the workout classes offered.,-1,,
+108,The mayor gave a strong speech protesting the building of a new yoga studio in place of the park.,-1,,
+109,The most popular headline from today says that watching enjoyable entertainment while exercising boosts the quality of your workout.,-1,,
+110,An author turned data scientist coded a very weak Python program that had a concerning number of bugs in it.,-1,,
+111,Bearhack is a health and medicine themed design competition. The third place team made a machine learning model using inference and optimization to monitor patients biometrics status for security risks.,2,3,Neutral
+112,"The algorithm showed high accuracy on the training data but suffered from overfitting. The model performed suboptimally on test data, as it was unrelaible at generalizing new data.",2,none,Negative
+113,The president's concerning position on tariffs sparked debate across media outlets. Citizens report increased economic stress and hardship as disapproval ratings rise.,1,none,Negative
+114,"My pet dog started showing alarming symptoms such as nausea, so we took a trip to the clinic. The veterinarian prescribed medicine, but the dogs reluctance and distress made it a difficult struggle to feed the dog.",4,5,Negative
+115,"International tensions escalate as the government announced a blockade at the Strait of Hormuz. Global oil prices increased dramatically, causing serious economic concerns with dire implications.",1,none,Negative
+116,The artist Malcolm Todd generated a lot of social media buzz by playing a song from his unreleased album at the UC Riverside Spring Splash concert.,3,none,Neutral
+117,Taking your pet dog on daily walks is a great and rewarding exercise. Practicing routine physical activity is beneficial for weight loss along with companionship and bonding.,4,5,Positive
+118,Boston Dynamics robot dog uses machine learning to automate data collection of it's physical environment. The system can safely perform dangerous tasks like search and rescure that are hazardous for humans and animals.,2,5,Neutral
+119,"The controversial AI generative short form video software Sora failed due to poor user adoption. After its shut down, the social media reaction was mixed since it replaced the human creators entertainment production.",2,3,Negative
+120,"In the car, we create a group live playlist that anyone can add great songs. Listening to a wide variety of new genres enriches our music pallete.",3,none,Positive
+121,"The current election candidates for California are almost all against a billionaire tax reform, with the exception of one person in the running. ",1,none,Neutral
+122,"The AI data centers being built across the world right now are being protested against by a majority of the public, so there needs to have a way to address this issue as it's being received very negatively. Even if it creates jobs, they use a lot of energy and silicon that people need for consumer electronics.",1,2,Negative
+123,The KNN algorithm is a great way to determine how information is organized by seeing how the distance between points are related.,2,none,Positive
+124,"As AI generated content has gotten better, more companies use it for products which is disappointing when talented digital creators are passed on for a quick but poor production.",2,3,Negative
+125,"Almost every story features a main character, but an anthology is a collection of often standalone short stories with multiple protagonists. For example, Love, Death and Robots is a sci-fi anthology series with each story being an episode.",3,none,Neutral
+126,"I found Rocky to be a really enjoyable film about boxing. Stallone had an impressive acting performance, and I was really motivated to do cardio or lift while listening to his tune.",3,4,Positive
+127,"It can be a bit difficult to get macronutrients like electrolytes or protein, so you have to watch your diet.",4,none,Negative
+128,"Walking my dog on is a way I get out of the house and help him spend some energy since he's fat and lazy. It can be an issue if he only gets out if he begs for a treat like a puppy, though.",4,5,Negative
+129,Veterinarian visits have been very difficult to schedule especially for my bunny since she's an exotic pet according to some practices.,5,none,Neutral
+130,"My favorite recipe used to be a bit hard to make since it was a lot harder to afford with the issue of eggs due to the avian flu crisis, but at least I can support my organic farmers community with other items since they have excellent affordable produce.",1,5,Positive
+131,The media is flooded with news about the senator's problematic scandal. He was caught embezzling money from the country's national bank.,1,none,Negative
+132,"The engineer continues to train her model in order to produce accurate predictions. Beforehand, she analyzed cleaned her dataset from outliers and missing values.",2,none,Neutral.
+133,The actress charms the audience with her role as a princess in the exciting fantasy film. Her beautiful costume dazzled anyone who saw her on screen.,3,none,Positive
+134,"Everyday, I start my morning wellness routine with yoga and proper hydration. I love this effective routine because it gives me the energy and staminaI need to take on the day.",4,none,Positive
+135,"My cat, Whiskers, is happy when she gets to play. The cute kitty will even wake me up before the sunrise to play with her.  ",5,none,Positive
+136,Congress has decided to enforce mandatory nutrition classes for all highschoolers so they can maintain their physical health after moving out. ,1,4,Neutral
+137,"This software allows users to input their favorite movie and recieve reccomendations for other movies using machine learning. In this technology, the user's data will be stored to the cloud and given to the model.",2,3,Neutral
+138,"The dog's poor health hinders his movement, so his owner must carry him around. The old hound has severe pancreatic cancer.",3,4,Negative
+139,"The talented singer attempted to maintain a fitness routine before their gig but the results were poor. Despite his intense core workout, did not get the abs he desired to flaunt for the show.",3,4,Negative
+140,The creative author took inspiration for their next novel from their happy little cat. The book is about a feline warrior who saves the world.,3,5,Positive
+141,New economic policies incentivize families to cook at home. The economic policies reduce the costs of vegetables.,2,5,Positive
+142,An algorithm determines the election results of a mayoral candidate. It predicts that the candidate will lose.,1,2,Neutral
+143,The entertainment industry has governmental pressures to provide partisan news coverage. News directors and journalists go on strike to protest the new government policy.,1,3,Negative
+144,A headline captures an artists latest scandal. The media continually publicizes the scandal and the artists' latest album does not chart.,1,3,Negative
+145,A dog owner and their dog go to the dog park. The dog plays with other dogs in the neighborhood and the owner reports being in a calmer mood.,4,5,Positive
+146,"A world renowned conductor is performing a three night symphony. He completes the three performances flawlessly, goes into the office the next day and continues as normal.",3,none,Neutral
+147,A local television station is covering a town hall meeting. The town hall meeting covered new town developments and previous agenda items.,1,none,Neutral
+148,A news article includes a visualization of Y Company's quarterly growth. The news organization publishes an opinion piece to buy into Y Company's stock price.,1,2,Positive
+149,Consistent exercise improved my stamina. It allowed me to keep running and increased my sleep hours.,4,none,Positive
+150,A restaurant has been an establishment of City A for 30 years. It has had consistent business over the years.,5,none,Neutral
+151,A recent review of the new Malcolm Todd album was highly positive because of his unique rhythm and vocal vibe appeal to the current generation.,3,none,Positive
+152,"Exploring the haunted house had me extremely anxious, especially when the basement door slammed shut. I swear I heard a creepy voice whisper from the shadows.",3,none,Negative
+153,Walking around the ren faire was fun and it unintentionally gave me a great cardio workout while increasing my daily stride and stamina.,4,none,Positive
+154,Cooking a fresh dinner like homemade lasagna is satisfying. It is even more fulfilling when I bake the pasta for my family.,5,none,Positive
+155,It's disappointing when a streaming network decides to cancel a TV show after 12 episodes. Low viewership and poor rating is what causes these cancellations.,3,none,Negative
+156,"Living in a college apartment comes with many strict housing restrictions. One of the worst rules is a ban on owning pets, even fish and lizards aren't allowed.",5,none,Negative
+157,A doctor discovering a patient's sudden heart murmur is a concerning symptom. This condition requires an instant appointment for an echocardiogram at a clinic.,4,none,Negative
+158,The classic gothic horror novel titled Dracula features a very dark character. The story successfully establishes a spooky vampire aesthetic.,3,none,Neutral
+159,"Edgar Allan Poe wrote a short two-line poem called ""Deep in Earth"" that serves a couplet. He follows this theme by writting it in a rhythmic verse and stanza.",3,none,Neutral
+160,I am cleaning the kitchen pantry to organize our food storage once again. I need to sort all wooden shelves and plastic containers today.,2,5,Neutral
+161,"War’s song Low rider is a classic, putting to great use many hispanic instruments which makes for a good listening experience. Whenever I hear the song on the radio, I always think of George Lopez jumping on my screen.",3,,Positive
+162,"Ever since I went to that party I have been feeling really sick. I think I need to go see a doctor to get some medicine. I really hope its not terminal, and that its cured quickly.",4,,Neutral
+163, I really love and miss my dogs at home. I hope that my parents have been feeding them and playing fetch with them. ,5,,Positive
+164,Learning how to implement python for visualization has been really stressful for me. I hope the next lab report needs fewer graphs and that I wont be stuck staring at Google Colabs all day.,2,,Negative
+165,The recent news reports have been very demeaning. The war has really dampened my mood. I hate hearing about different bombings and inflation.,1,,Negative
+166, Statistics and media have always been tied together. One day people will stop being misled by bad visualizations. Hopefully everyone will improve their media literacy as well as analytical skills.,1,2,Neutral
+167,I love watching Paw Patrol at its regularly scheduled showtimes. My Favorite character is the german shepard Chase. His role on the show is as a police officer who plays with his doggy pals.,3,5,Positive
+168,"I’ve been eating really unhealthy lately. Im just too addicted fried jumbo shrimp tacos, and this buffet near my house always almost puts me in a coma.",4,5,Negative
+169,"Sporticus, whose actor was an olympian taught millions the importance of working out and maintaining fitness. He made the show lazy town not lazy.",4,3,Neutral
+170,Recently I've been tracking my health data on my apple watch. Its interesting to track daily calories and activities. It provides me with helpful line graphs to better my understanding of my progress.,4,2,Neutral
+171,"The president gave a strong, helpful speech on tax reform, and senate approval ratings improved after the public debate.",1,none,Positive
+172,"Local journalists report excellent coverage of the election campaign, and a reporter praised the senator's helpful interview.",1,none,Positive
+173,"Inflation, a budget crisis, alarming war coverage, and a discouraging senate debate created serious concerns for the government.",1,none,Negative
+174,"The mayor's poor campaign suffered disappointing polls, frustrating speech mistakes, and harmful debate moments before the election.",1,none,Negative
+175,"Congress held a discussion on immigration policy, tax reform, and new legislation during the senate session this week.",1,none,Neutral
+176,"Media outlets published an article about the international peace treaty, the upcoming vote, and the governor's official update.",1,none,Neutral
+177,"The new classification model showed excellent accuracy on the dataset, and the python pipeline produced strong, useful predictions.",2,none,Positive
+178,"Our clustering algorithm produced great results on the corpus, and the analysis dashboard made visualization smooth and effective.",2,none,Positive
+179,"A serious bug in the software caused poor prediction accuracy, slow processor performance, and a frustrating, flawed deployment.",2,none,Negative
+180,"The clunky database query, weak memory, and unreliable network code made the machine learning system difficult to use.",2,none,Negative
+181,The training data was split into input and output vectors before running the regression model on the cloud server.,2,none,Neutral
+182,"Engineers tested the network interface, updated the visualization function, and improved the analysis pipeline in the new software.",2,none,Neutral
+183,"The new fantasy novel became an inspiring bestseller, and the author created a great story with one exciting character for the audience.",3,none,Positive
+184,"The album's vibrant melody, smooth lyrics, and the singer's flawless concert performance made an excellent, enjoyable experience.",3,none,Positive
+185,"Critics gave the drama series dreadful reviews after a weak script, dull dialogue, and disappointing character performance.",3,none,Negative
+186,"The director's comedy show suffered from a slow plot, painful dialogue, frustrating actors, and discouraging audience reviews.",3,none,Negative
+187,"The streaming studio announced a new television series with a fresh cast, original soundtrack, and an upcoming sitcom episode.",3,none,Neutral
+188,"The actor read each chapter of the paperback poem aloud, and the production studio recorded the broadcast as a biography series.",3,none,Neutral
+189,"Daily yoga, stretching, and breathing exercise improved her wellness routine, and her cardio recovery felt great and effective.",4,none,Positive
+190,"Regular cardio training, good nutrition, vitamins, and steady sleep led to improved muscle strength and excellent physical health.",4,none,Positive
+191,"His poor sleep, stressful workout routine, painful injury, and weak endurance caused a serious drop in physical fitness.",4,none,Negative
+192,"The patient visited the doctor about a serious muscle injury, worse symptom severity, slow therapy recovery, and disappointing medicine results.",4,none,Negative
+193,"The clinic offers cycling, walking, stretching, and strength training sessions as part of a balanced fitness and wellness program.",4,none,Neutral
+194,"The doctor explained that proper hydration, posture, stretching, breathing, and a regular aerobic routine support overall physical health.",4,none,Neutral
+195,"The new recipe for vegetable soup turned out delicious, and the family enjoyed a satisfying dinner at the kitchen table.",5,none,Positive
+196,"Our dog learned a useful leash routine, the cat happily played with a toy, and grooming made the apartment pleasant.",5,none,Positive
+197,"The messy cleaning routine, dull bedroom furniture, bad meal flavor, and frustrating laundry pile made dinner disappointing.",5,none,Negative
+198,"Stale bread, weak coffee, a difficult grocery trip, and a clunky microwave made breakfast a problematic morning routine.",5,none,Negative
+199,"She washed the laundry, organized the pantry, refilled the kibble, and prepared a simple lunch with fruit from the garden.",5,none,Neutral
+200,"The pet owner cleaned the litter box, refilled the dog's food bowl, and wiped the countertop before leaving home.",5,none,Neutral
+201,"A new government dataset and helpful analysis pipeline improved election reporting accuracy, and journalists praised the useful, smart software.",1,2,Positive
+202,"Inflation prediction models built with python failed under bad input data, leading to a disappointing public report and flawed senate coverage.",1,2,Negative
+203,"The senate held a discussion about cloud storage policy, dataset regulation, and new legislation on algorithm transparency.",1,2,Neutral
+204,"The television series about the presidential campaign received excellent reviews, an enjoyable streaming audience response, and great press ratings.",1,3,Positive
+205,"A poor documentary on the war featured weak dialogue, a dreadful script, and discouraging interview moments that frustrated the audience.",1,3,Negative
+206,"A news reporter conducted an interview with the actor about her new political drama, and the documentary streaming series will broadcast soon.",1,3,Neutral
+207,"The new health policy from congress improved clinic funding, reduced patient costs, and led to helpful wellness outcomes for the public.",1,4,Positive
+208,"Official reports of a serious medicine shortage caused stressful conditions, harmful treatment delays, and alarming patient outcomes for the public.",1,4,Negative
+209,"The senate debate covered nutrition guidelines, mental health reform, meditation programs, and a fitness update from a public dietitian.",1,4,Neutral
+210,"A new government food safety law improved restaurant inspections, and families reported delicious dinner experiences and happy grocery trips.",1,5,Positive
+211,"Rising grocery inflation, a poor harvest, and dreadful restaurant prices made meal planning frustrating for our local family this season.",1,5,Negative
+212,"The mayor's update addressed pet ownership rules, apartment regulation, community garden programs, kibble safety, and local kitchen legislation.",1,5,Neutral
+213,"A new machine learning model analyzed song lyrics with great accuracy, and the algorithm helped artists produce excellent, inspiring albums.",2,3,Positive
+214,"The streaming service's recommendation algorithm gave a poor prediction, leading to disappointing audience reviews and a dull, frustrating drama series.",2,3,Negative
+215,"Researchers trained a python model on a large corpus of novel chapters, podcast scripts, and television dialogue for genre classification.",2,3,Neutral
+216,"The fitness app's prediction algorithm improved her workout routine, and the data dashboard showed strong recovery and helpful pulse trends.",2,4,Positive
+217,"A serious bug in the medical software caused poor accuracy in symptom classification, alarming diagnostic delays, and discouraging treatment outcomes.",2,4,Negative
+218,"The clinic used a regression model and patient data to study sleep, hydration, cardio activity, and recovery routine patterns.",2,4,Neutral
+219,"A smart kitchen system used a recommendation algorithm to suggest excellent recipes from pantry ingredients, and the family enjoyed every delicious meal.",2,5,Positive
+220,"The pet feeding software had a serious bug, the kibble sensor data was unreliable, and the bowl interface felt clunky at home.",2,5,Negative
+221,"An automation pipeline tracks grocery inventory, meal planning, and pet food storage using a smart cloud database query.",2,5,Neutral
+222,The yoga instructor's podcast and calming music playlist created a pleasant routine that improved her mental wellness and breathing recovery.,3,4,Positive
+223,"The actor's stressful filming schedule caused a serious painful injury, and the disappointing performance ended the drama series early.",3,4,Negative
+224,"The documentary series explored how music, podcast routines, and meditation affect sleep, stress, hydration, and physical recovery.",3,4,Neutral
+225,"The cooking show featured a great chef preparing a delicious dinner, and the family enjoyed the entire enjoyable, uplifting episode.",3,5,Positive
+226,"The novel's character lived in a messy apartment, and the dull plot about her cat felt slow, painful, and disappointing.",3,5,Negative
+227,"The streaming series follows a baker, her dog, a quiet kitchen routine, and a chef preparing meals inside a small home.",3,5,Neutral
+228,"Walking the dog every morning, eating a healthy breakfast, and stretching improved her energy and gave her a delightful daily routine.",4,5,Positive
+229,"A poor diet of frozen kitchen meals, skipping exercise, and weak cardio caused stressful weight gain and exhausting sleep problems.",4,5,Negative
+230,"Her daily routine includes a balanced lunch, light cycling, stretching, and feeding the cat before evening yoga and meditation practice.",4,5,Neutral
+231,"Comedy, thriller, and action are examples of genres that Netflix has to offer.",3,None,Neutral
+232,"The animation, plot, and voice acting in Witch Hat Atelier makes it a spectacular series to binge.",3,None,Positive
+233,My pet frog had developed a concerning illness from consuming the worms in its habitat. I have made an appointment for next week to get it checked out.,4,5,Negative
+234,"There are two candidates running for president right now. One of them is a Republican, and the other one is a Democrat.",1,None,Neutral
+235,"The dietitian said my health has improved after eating a balanced diet consisting of meat, dairy, and vegetables to get more nutrients into my body.",4,5,Positive
+236,I attended a concert to hear my favorite idols sing live on stage in Los Angeles. I always listen to their music through my headphones.,3,None,Positive
+237,The assignment allowed students to use artificial intelligence to debug their code.,2,None,Neutral
+238,Recent government policies have cut funding and resources towards public education which have caused outrage amongst citizens.,1,None,Negative
+239,"I hate that my roommates are unwilling to do chores around the apartment. They do not help vaccuum, sweep, or mop.",5,None,Negative
+240,Fans of the show MasterChef were horrified watching the chefs fail to bake their gourmet recipes in the final season.,3,5,Negative
+241,"On an episode of The Voice, singer Kelly Clarkson debuted her new single on stage. It merged software and machine learning to generate different unique backtracks everytime it played.",2,3,Neutral
+242,"My cat drank all the milk, so now we are at Walmart buying new furnishings for the apartment because he pooped all over the old lounge chair.",5,None,Negative
+243,Mom told me about the coverage on the crises and wars across seas. New diplomatic measures have been taking place with the current world leaders. I am hopeful the world will become better.,1,None,Positive
+244,Running with my dog at the beach helps train my durability and lower my blood pressure. We also play fetch and frisbee too.,4,5,Positive
+245,Movie reviewers were irked by the new feature film Hail Mary due to their inaccurate usage of centrifuges. They incorrectly balanced the machine causing people to throw their popcorn everywhere.,3,None,Negative
+246,"Many states have created new policies for data centers. The rise in AI and chatbots have led to this demand leading to more centers being created. Citzens are protesting, creating counsils and creating petitions.",1,2,Neutral
+247,"Amazon released a televised adaptation for popular romance novel Off Campus. Fans have been praising the new romcom, complimenting the acting and drama.",4,None,Positive
+248,Gordon Ramsay's new breakfast reciepie was broadcasted on screen. The news anchors were impressed by its flavors and use of spices.,3,5,Positive
+249,Extreme levels of sleep loss and stress have been exhibited by the general population. Citizens are displeased with the government’s current actions.,1,5,Negative
+250,I love eating out at different restaurants for dinner. Food makes me happy and is my form of therapy.,4,5,Positive
+251,"During a stressful interview with an athlete, a reporter was almost struck by a baseball on the training site. ",1,4,Negative
+252,Running a large database on the local device will exhaust the processor. This workload will likely cause the system to shut down.,2,None,Negative
+253,"For a show that adapted from a novel, they always rewrite extra scene. Most of the new script was required an approval from the writer before it went into general crew. ",3,1,Neutral
+254,Best way to release stress is strolling around the neighborhood after having a supper in the evening. It is a low commitment routine for everyone. ,4,5,Negative
+255,The live action of Avatar is an enjoyable adaptation. The giant bison eats an absurd amount of snacks. ,3,None,Positive
+256,A true crime podcast by Rotten Mango is an enjoyable broadcast. The creator deep dive into a story with full site-note coverage. ,1,3,Positive
+257,The congress issues a new regulation to improve the safety of the country. ,1,None,Positive
+258,Frieren is a fantasy story that show a main protagonist went on a new journey to learn more about her former comrade and the world. ,4,None,Neutral
+259,Digital distribution has made music more accessible. Finding new genre and artist has never been easier. ,3,None,Neutral
+260,Using a spike collar on a dog while walking help to train the dog behavior. This restrictive collar prevents a sudden pull and reduce excessive physical injure. ,4,5,Neutral
+261,"Todays headline, the ""No Kings"" protest organized in response to the presidents actions and adminsitration policies in office.",1,None,Neutral
+262,"Welcome, broadcasting live from California, where today we will review an interview with congress member Young Kim about ICE and their effectiveness at tackling immigration in the state and country level.",1,3,Neutral
+263,The hardware present does not have enough storage to house the data given. Consider importing the data to your cloud server instead.,2,None,Neutral
+264,"I hate that my workout program has an egregious bug with being unable to track my fitness plans. The software engineer said tracking miles, meal plans, and so on would be fixed soon two months ago.",2,4,Negative
+265,The lovely ode about the dog has great reviews. A canine will most likely be trained to film the remaster for the television show.,3,5,Positive
+266,The controversial author for the lyrics of three of the top ten melodies streaming on Spotify has been reluctantly nominated for this years Grammy's. ,3,None,Negative
+267,Malcom diligently trained his endurance running and improved his recovery and stamina as a result.,4,None,Positive
+268,The owner was gored by his cat from hell. The near feral feline needed to be put on a harness with a muzzle and months of rehabilitation and training.,4,5,Negative
+269,Advanced hardware has been attached to the cat collar to track an exact location using GPS. The location is then stored in a database to track the pet's hideouts via wifi connection.,5,2,Neutral
+270,"Local dog was elected as mayor with overwhelming public support. She's hasn't raised the peoples taxes or enforced fines, making a homely atmosphere. Treats and sausages are generously donated to encentivise a second term.",5,1,Positive
+271,My tabby cat bit my terrier and they got into a scuffle over a toy. They are all fine now.,5,None,Neutral
+272,The problematic media caused a scandal in the gossip press. This issue made people wonder who was really involved.,1,None,Negative
+273,The system was so loud that it became difficult to hear anything. This gave us poor audio output and high decibel levels.,2,None,Negative
+274,The famous actor and director stood next to a celebrity wearing a crazy costume. It was enjoyable to watch the interactions.,3,None,Positive
+275,My bad muscle strain caused a lot of stress. It also gave me severe fatigue and headaches.,4,None,Negative
+276,My data graphs on the dashboard were effective in showing metrics of my research. My research on AI frameworks has a presentation for a live spectator audience.,3,2,Positive
+277,"My friends showed me a culinary recipe for an appetizer on the internet, which uses our smartphone network. We will be preparing it in a skillet.",5,2,Neutral
+278,Our patrons heard a newscast journalism report about the restaurant. The inspector gave a low rating due to sanitation problems with rats.,5,1,Neutral
+279,I dislike that my injury of my tendon requries me to have crutches and prevents me from going down the stairs to watch my favorite sitcom on the television display.,4,3,Neutral
+280,"My pet puppy Maya is wearing a harness. It has so much positive energy and vitality that causes people to release endorphins, making them smile every time they pass by.",5,4,Positive
+281,"A new study shows that regular muscle training is vital to living healthy, long lives. Those who partake report a boost in mood and energy. ",4,none,Positive
+282,The public is outraged following the president’s meandering response to the implementation of sanctions and tariffs on American companies.,1,none,Negative
+283,A newly deployed and optimized machine learning algorithm can predict the daily weather within a week with never-before-seen accuracy. ,2,none,Neutral
+284,The number of families in the United States is plummeting alongside home ownership rate. Many report poor social and economic conditions as the reason.,5,none,Negative
+285,The upcoming 2026 release of Avatar Aang: The Last Airbender has already garnered raving reviews from audiences following its leak on platforms such as X. ,3,none,Positive
+286,"Singer songwriter Kanye (Ye) West claims that his talents for politics rival his talents for music. He plans to campaign for president, promising a new amendment for diplomacy.",1,3,Neutral
+287,"Studies show that owners who socialize their cats outside regularly have improved metabolism, reduced anxiety, and better mobility. ",4,5,Positive
+288,Undercover reporter reports about a smart system utilized for optimizing air strikes in skirmishes outputs that it’s “scared of its own capabilities”. Researchers are concerned to say the least.,1,2,Negative
+289,An obese cat in California has its routine feeding habits documented and recorded into a dataset. Researchers and vets designed a model to analyze the main reasons for its weight.,5,2,Neutral
+290,Singer songwriter d4vd’s “Remember Me” has been removed from Arcane’s official Spotify discography following major petition from the people.,1,3,Neutral
+291,"The most recent protest with thousands rallying together against an imminent dictatorship has had a frustratingly minor impact, leaving citizens outraged.",1,none,Negative
+292,A neural network trained on different cuisines and various homestyle cooking blogs was coded to have an accuracy higher than 80% when predicting a dish given its ingredients.,2,5,Neutral
+293,"Experts recommend 8 hours of sleep in order for someone to function at their best. Participants in their study report improved qualities of life, citing less brain fog and improved motor functions.",4,none,Positive
+294,An upcoming Daniel Caesar concert has thousands waiting in queue to buy tickets to auditorally experience songs about tragedy.,3,none,Neutral
+295,"The protagonist in this thriller novel is running for president, with seemingly successful plans to lower inflation and amend current migrant laws.",1,3,Positive
+296,Therapists suggest going to holistic therapy at least once a week to establish momentum and develop one's healthy coping skills.,4,none,Neutral
+297,A restaurant is closing after numerous guests report a concern with the amount of bugs visible around the establishment.,5,none,Negative
+298,"The students' Support Vector Classification (SVC) is trained on 10 different musical features, including rhythm and creator, to try to predict a song's category. Its validation accuracy has consistently been above 74%.",3,2,Positive
+299,"Students with high mental stress often claim that their grades are ""cooked"", finding themselves with no motivation  or vigor. Studies have found that there is no correlation to baking or chefs.",4,5,Negative
+300,Children these days are being fed too much processed food which worsens their vascular health and stamina. Porfessionals deem this a growingly problematic issue.,5,4,Negative
+301,The government debate about immigration included diplomacy and amendment discussions during the election coverage. Many voters reported positive reactions afterward.,1,none,Positive
+302,The software model used neural_network and framework methods for database analysis and prediction testing. Engineers described the system as effective and useful.,2,none,Positive
+303,The television series featured a thrilling protagonist and songwriter during studio production. Critics gave the episode disappointing reviews because the plot felt weak.,3,none,Negative
+304,The fitness workout improved metabolism and cognitive wellness through exercise and recovery training. Athletes noticed stronger energy and healthy motivation afterward.,4,none,Positive
+305,The restaurant prepared homestyle cuisine with appetizers and baking recipes for dinner service. Customers enjoyed the pleasant flavor and satisfying meals.,5,none,Positive
+306,The journalist published a report about dictatorship and insurgency during a public government discussion. Residents expressed serious concerns about the stressful political crisis.,1,none,Negative
+307,The machine learning program applied support_vector classification and debugging methods for statistics analysis. Researchers found the optimized system strong and successful.,2,none,Positive
+308,The concert performance included a songwriter and setlist during the entertainment broadcast. Some audience members described the experience as poor and frustrating afterward.,3,none,Negative
+309,"The doctor recommended wellness routines focused on vigor, movement, and coping therapy after physical injury treatment. Patients developed improved recovery habits.",4,none,Positive
+310,The apartment kitchen used cuisine ingredients and appetizers for breakfast cooking and family meals. The enjoyable food created pleasant dinner conversations at home.,5,none,Positive
+311,The media reported an concerning increase in AI data centers being built right where local homes and family neighborhoods are. This would pose dangerous living conditions in the district and the social platforms aren't displaying them enough.,1,5,Negative
+312,The model that is being used to design an algorithm in python is difficult to work with. This causes the PC to malfunction when processing data.,2,none,Negative
+313,The author of this poem says that using an AI model to write instead is harmful because automated processes ruin the artistry of creating a work of art.,2,3,Negative
+314,"My dog exercises a lot which is good for his physical health, so I reward her with treats and lots of petting. This means if she listens and preforms her tricks, I will also reward her.",4,5,Positive
+315,"The owner has a successful diet by eating fruit and vegetables. I would also make sure to count carbs and protein, so I have the energy to play a sport like pickleball.",4,5,Positive
+316,"The owner of the dog is happy when he goes out for breakfast. He gets himself pancakes, breakfast burrito juice for a balance meal. ",5,none,Positive
+317,A media reporter shows that these companies are coming out with new algorithms and hardware for data analysis. She writes a blog for CNN on how they use less tensor cores and consume less wattage ,1,2,Neutral 
+318,The author for this story went out and got himself a snack. He would eat a bag of cheetos and doritos before working on the outline of his draft.,3,5,Neutral
+319,The mayor held a local election today and gave a short public speech. This showed his party's position while in the current financial state.,1,none,Neutral
+320,The president presented a new policy on what will happen in a recession and how that will impact retirement funds.,1,none,Neutral
+321,My dog is always happy watching television at the house on his bed. His favorite cartoon show is Bluey.,5,3,Positive
+322,"After a long day of coding solutions and debugging issues at school, coming home to the couch and carpet feels satisfying.",5,2,Positive
+323,"Proper intake of wholesome, good meals consisting of protein, carbs, and fat can improve sleep, metabolism, and cognitive abilities.",5,4,Neutral
+324,"The election sparked a public outrage and a problematic insurrection since the election statistics, including counting and results, didn't correspond with the outcome.",1,2,Negative
+325,Cooking a delicious dinner to fulfill any appetite requires fresh ingredients and proper recipe to follow.,5,none,Neutral
+326,Pets are often rewarded in treats and toys to promote positive habits and to stimulate their minds.,5,4,Positive
+327,Machine learning algorithms tend to use methods of training and testing to improve their accuracy and precision at a certain task.,2,none,Neutral
+328,The unkept promise of tax reforms and revisional budgets was problematic. The newly elected president was disappointing the population.,1,none,Negative
+329,The writer of that new novel series was a failure. All of his ratings were poor.,3,none,Negative
+330,The doctor prescribed medicine for my injury. It was effective at making me feel healthy and preventing it from happening again.,4,none,Positive
+331,Skipping a proper warmup before running is a bad idea. Many athletes learn this the hard way.,4,none,Negative
+332,Hatsune Miku's recent concert was one of the most exciting shows of the year. The setlist included many excellent songs from the rhythm game.,3,none,Positive
+333,Yesterday's debate in the senate was weak and hard to watch. Voters say the lack of any meaningful real policy is frustrating.,1,none,Negative
+334,Many dinner restaurants offer bread as an appetizer before the main meal or sometimes as a side for the soup.,5,none,Neutral
+335,The library's new recommendation algorithm is very useful in suggesting novels based on reading habits. Library patrons report that it seems surprisingly accurate.,2,3,Positive
+336,The data science team engineered a clustering algorithm to analyze streaming patterns across movies and television genres.Their new framework improved the efficiency of the analysis.,3,2,Neutral
+337,Streaming services are recently getting more serious about taking down illegal pirating websites instead of just updating their platforms or fixing issues that would improve user experience.,3,1,Negative
+338,A recent study indicates that going outside to your garden and touching the grass is a great way to decrease mental stress.Daily sunlight and fresh air improves emotional wellbeing.,4,5,Positive
+339,Data scientists love when the machine starts learning and not a single error can be found in their code.A clean debugging process helps improve programmer productivity.,2,none,Positive
+340,Government media outlets published a concerning report detailing a recent hantavirus outbreak and the urgent need for local wellness clinic resources. Many hospitals are preparing supplies and emergency response plans.,1,4,Negative
+341,"Anthropic's large language model Claude, is seen to be accelerating in their effectivity of analysis and classification. They outperform competitors on generating effective visualizations and outputs with their advanced machine learning models.",2,none ,Positive
+342,"Generation Z is seen to be the most active amongst all previous generations. This generation places a strong emphasis on movement, staying health conscious, and prioritize strength training for muscle hypertrophy. ",4,none ,Positive
+343,It can be extremely exciting to own your own dog. They are lovable furry creatures that can lower your stress levels and make you more active.,4,5,Positive
+344,With an increase in machine learning and automation the media has casted a negative light on the job market. New graduates have shared how it has been stressful to obtain entry level jobs and are pushing for reform.  ,1,2,Negative
+345,The U.S. involvement in the Iran War is a problematic and controversial topic among many Americans. Americans are conflicted on the violence ensuing alongside many additionals costs they are experiencing at the pump and elsewhere. ,1,none,Negative
+346,Actors often promote exaggerated beauty standards especially when trends on how body figures should look become popularized. This can cause the audience to feel negatively about themselves and look to harmful health diets and fitness journeys. ,3,4,Negative
+347,"It is almost time for Californians to elect their new governor. Voters are looking for candidates that can address current issues such as the taxes, crime, and housing affordability. ",1,none,Neutral
+348,"Besides giving your dog the classic kibble, you can also include vegetables and some fruits in their diet. Vegetables like carrots and pumpkin can add beneficial fiber and nutrients to their diet. ",5,none,Neutral
+349,Before lifting heavy weights it is recommended to stretch and allow blood flow to reach your muscles. This sets you up for a better workout and maintain a balance of flexibility alongside strength training. ,4,none,Neutral
+350,Hollywood became the film capital of the world due to its location and weather. Several studios were established here that produced several famous actors through television and film. ,3,none,Neutral
+351,The new election coverage and media report gave voters useful information and created a positive public discussion.,1,none,Positive
+352,The software model produced excellent prediction accuracy and the automation system showed strong performance.,2,none,Positive
+353,The television series had a disappointing plot and weak dialogue that frustrated the audience.,3,none,Negative
+354,Poor sleep and stressful workout routines can cause harmful effects on physical health and recovery.,4,none,Negative
+355,My family prepared a pleasant breakfast with fruit and bread in the kitchen before work.,5,none,Neutral
+356,The government policy used machine learning analysis to improve public services and create effective solutions.,1,2,Positive
+357,The actor discussed difficult exercise routines during an interview and described frustrating recovery experiences.,3,4,Negative
+358,The restaurant introduced a new recipe while a data system tracked customer feedback and meal preferences.,2,5,Neutral
+359,A journalist wrote a report about a concert performance that received excellent reviews and exciting audience reactions.,1,3,Positive
+360,The dog owner followed a training routine and walked to the park before preparing dinner at home.,4,5,Neutral
+361,Social media is now pushing advertisements on candidates for the upcoming elections. They implore the public to vote based on a variety of policy and social issues.,1,none,Neutral
+362,"The rise of machine learning, AI, and LLMs may threaten the field of data analysis. Their accuracy and efficiency pose problematic implications on the job market. Despite that, they are also weak due to their hallucinations and poor calculations. ",2,none,Negative
+363,"A recent film that came out was the Wuthering Heights adaptation, which is a drama based on the Emily Bronte novel. The movie stars famous actor Jacob Elodi and his co-star Margot Robbie.",3,none,Neutral
+364,"It is essential to engage in physical activity or it weakens your health. Failure to have a regime of cardio and strength training may have negative impacts on your future. For bone health, muscle density, and joint health, one must exercise. ",4,none,Negative
+365,"In the process of preparing for my new puppy, I have purchased a leash, a toy, and treats. Most importantly, I began looking for various dog trainers so I can complete the home training as soon as possible. The puppy may also start teething so I got the furry creature a teething chew toy. ",5,none,Neutral
+366,"The CDPA act in Britain is being considered to be legalized in California. This policy would be effective for protecting the public from algorithms and models which function to replace human conscientious reasoning. The policy explains that when a model replaces a human decision, the programer is liable for the choices the model makes.",1,2,Positive
+367,"Referring to LLMs for health advice may be a bad idea. The AI may not perform well under stressful, urgent emergencies, which will weaken its accuracy. It may not understand the context of your underlying health conditions, family-history, and body measurements (like BMI). It may also hallucinate data or provide information from inaccurate sources. ",2,4,Negative
+368,"Younger music artists have songs and albums dedicated to pop music. The rise of pop music benefits energy levels and reduces stress. Thanks to them, now EDM, rock, and house music is also getting popular. ",3,4,Positive
+369,"Having a meal preparation routine can be helpful and can promote a healthy diet. Even by preparing lunch and dinner ahead of time, it can reduce mental fatigue by providing clarity. Meal prep can be stored in the fridge and eaten over a couple days.",4,5,Positive
+370,"One computational model someone could make could make predictions on what kind of pet someone has based on characteristics of the prospective owner. Based on the persons’ home setup, daily routine, and grocery list preferences as inputs, the model could use classification to identify the ideal pet type. ",5,2,Neutral
+371,The news coverage showed the devastating and harmful effects the Bain Fire had on Riverside county. Luckily the apartment I'm renting out isn't near the fire but I have been suffering from some respiratory issues caused by the smoke.,1,none,Negative
+372,Grocery shopping has improved my eating habits and nutrition. It has been effective in helping me save money by reducing the amount of times I eat fast food. I typically buy chicken thighs in bulk and I pair it with either sweet potatoes or baby potatoes as my carbs. ,4,5,Positive
+373,The improvements in the accuracy of large language models are concerning for the future of my career path. AI has made me worried about job security which is why I'm thinking of doing my masters in order to strengthen my resume and experience. ,2,none,Negative
+374,De-stressing by practicing breathing exercises and meditating before bed has improved both my sleep quality and reduced my anxiety,4,none,Positive
+375,"I have an exam tomorrow for my statistics class. It's mainly on ANOVA, which stands for analysis of variance. It also covers hypothestis testing, power testing, and identifying different experimental designs. To prepare I've done all the textbook practice problems and watched YouTube videos on topics I wasn't fully confident on.",2,none,Neutral
+376,News reports about the recent Canvas data breach showed the serious failures in the platform’s security system and exposed several flaws they need to fix. Their cybersecurity experts investigated what caused the breach but took a while to push out a patch to fix the issue. ,1,2,Negative
+377,I was underwhelmed after watching ‘The Boys’ series finale and I can see why most of the reviews and media coverage surrounding it have been negative.,1,3,Negative
+378,News reports about the recent Canvas data breach showed the serious failures in the platform’s security system and exposed several flaws they need to fix. Their cybersecurity experts investigated what caused the breach but they took a while to push out a patch to fix the issue. ,1,3,Positive
+379,Me and my roommates split up cleaning duties for our apartment and this week I have to mop the living room and kitchen. My favorite cleaning duty is vacuuming since its the quickest to do. ,5,none,Neutral
+380,Government officials and lawmakers should start creating new policies that regulate how large language models source their training data. There isn't much regulation on how AI and LLM's scrape their training data from online sources.,1,2,Neutral
+381,A T.V. show features celebrities showing off their Hollywood homes and lavish lifestyles. Many fans are entertained by the episodes.,3,5,Positive
+382,A data science company effectively developed a new software to organize large databases that performed better than its competitors. ,2,none,Neutral
+383,A movie star made a controvertial remmark about ballet and the performing arts during an interview. ,3,none,Negative
+384,My roomates deep cleaned our house before a large group of friends came over.,5,none,Neutral
+385,The dog spilt his kibble all over the carpet and bit my roommates when they were home. ,5,none,Negative
+386,The computer program effectively helped recomend family meals high in nutrients for those to busy to come up with recipies. ,5,2,Positive
+387,A fitness coach recomended meal preping with protien and fiber to support a healthy diet and lifestyle.,4,5,Positive
+388,Data trends show that a lack of excersize accelerating the rate at which individuals develop high blood pressure. ,4,2,Negative
+389,Current news reports show that gas price trends have increased nationwide in the past few months limiting affordability for the lower class. ,1,none,Negative
+390,A documentary shows how athletes use technology and data tracking to effictively adjust their training weights and improve strength.,2,4,Neutral
+391,The government has released a report about state budget problems. Many citizens have expressed anxiety about the impact on legislation.,1,None,Negative
+392,A new program uses machine learning algorithms to improve servers and cybersecurity systems for a tech company.,2,None,Positive
+393,A new TV series is reported to have an excellent plot and screenplay. Public has rated the cinematography highly on Rotten Tomatoes.,3,None,Positive
+394,Doctors recommend a new exercise routine that involves stretching and meditation.,4,None,Neutral
+395,Many families keep apples and blueberries on their kitchen counters because they are a good snack for both the families and their dogs.,5,None,Neutral
+396,"The election debate was hard to watch. The coverage felt negative, the headlines were frustrating, and a lot of voters said the speeches only the campaign feel more stressful.",1,None,
+397,"The learning model did not perform well during testing. It trained slowly, had low accuracy, and produced outputs that showed the prediction system still needed major improvements.",2,None,negative
+398,"The streaming series was very enjoyable. It had an exciting plot, strong plot, strong dialogue, and a great final episode, so mamy viewers praised the actor and director's performances.",3,None,positive
+399,"A balanced routine with walking, enough water, sleep, and good nutrition can help support overall wellness. These habots can also improve energy, recovery, and daily movement.",4,None,neutral
+400,"The dog's, food bowl, toy, and leash were left in the messy apartment kitchen. The pet owner cleaned the home, furniture, and laundry before dinner.",5,None,neutral
+401,"The people are concerned with the recent government shutdown on the news and what this means for the economy, federal aid, and job security. Until this issue is resolved many Americans are out of a job and many economic decisions are left uncertain.",1,None,negative
+402,"A new machine learning model was released that improves the accuracy, prediction, and output of data visualizaations. The model is optimized to help runtime and memory useage which is very beneficial to programmers.",2,None,positive
+403,"The character in the author's novel is a musically gifted individual that is often caught playing instruments in live performances. The genre of his novel revolves around romance, action, and is an overall thriller.",3,None,neutral
+404,"For one's health it is important to exercise and find the time to workout throughout the day. Some benefits of frequent physical activity are structure, endurance, improvements in chronic disease, and mental health.",4,None,positive
+405,The dog owner typically does an excellent job of taking care of their pet. But this day was a bit problematic since the owner accidentally let the dog eat chocolate he left out on the shelf of the living room.,5,None,negative
+406,The government released a helpful report about local budget reform and public policy updates. Journalists described the mayor’s speech as positive and effective.,1,None,Positive
+407,The machine learning model produced excellent prediction accuracy after software testing and data analysis. Developers said the system created useful visualizations for researchers.,2,None,Negative
+408,The television series received disappointing reviews because the weak dialogue and poor soundtrack frustrated the audience. Critics said the production quality was worse than expected.,3,None,Negative
+409,"Poor sleep, stressful workout routines, and weak recovery habits can create serious health problems. Doctors warned that lack of hydration may worsen physical injury.",4,None,Negative
+410,"The family prepared breakfast with fruit, bread, and coffee in their kitchen before walking the dog. The pet waited beside the table during the meal.",5,None,Neutral
+411,Government officials have released a report about how a new algorithm is helping policymakers improve their public policy decisions. Analysts have done this by programming new encrypted databases to forecast public opinion.,1,2,Positive
+412,"A new streaming platform uses an AI software to recommend television episodes. Combined with editor rendering and a synchronization technology, public reports an enjoyable and satisfying personalized experience.",2,3,Positive
+413,A news report describes a stressful economy crisis that has caused an increase in restaurant prices. Local communities are upset because school cafeterias are experiencing shortages and distribution problems.,1,5,Negative
+414,Production is paused after an actress suffers a serious injury on set. Stunt choreographers have been told to monitor rehearsal more closely and the acress is working on rehabilitation exercises with therapists.,3,4,Negative
+415,"A local juice shop uses vitamins and minerals and works with dietitians to prepare nutritious, balanced smoothies for customers to support digestion.",4,5,Neutral
+416,"The health clinic used a data model to track sleep, stress, exercise, and recovery patterns more effectively. The software also gave patients clearer visuals about their wellness and physical activity.",4,2,positive
+417,"The news report explained that food inflation has made grocery shopping, eating out, and managing family budgets stressful. The article showed how rising prices have become a serious problem for local families.",1,5,negative
+418,"A music streaming app used a recommendation algorithm to match each song, artist, and album to user data. The system looked at listening habits and sorted them through a simple classification model.",3,2,neutral
+419,"A pet training program used  toys, movements, and positive feedback form the owner to build a better routine. Over time, the dog improved with exercise, leash practice, and daily activity.",5,4,positive
+420,"The fitness app had a comfusing interface, slow data storage, and weak workout tracking tools. Many users said it made planning exercises, cardio and training routines more frustrating.",4,2,negative
+421,A news article headlined that an upcoming actor was going to star in the new marvel movie that is centered around comedy. The actor has starred in many indie films that tended to be sorrowful and about AI so this new role is a bit surprising in a good way.,1,3,neutral
+422,"A new software was released that uses a python algorithm to keep track of a persons health by gathering data on strength, training time, and workout lengths. User privacy is a concern for this new software beause the data collected is real time and has a lot of user information.",2,5,negative
+423,A new television series was released about a cat and dog duo that are secretly super heroes who live in an apartment undercover as pets. The series is action packed filled with action and drama and a lot of plot twists involving the unlikely antagonist who lives in the apartment's basement.,3,5,positive
+424,"A new fitness workout routine has been advertised in the media and even has support from the government. The workout focuses on training muscle, helping wth wellness, and balance which can help combat the weight issue in America",4,1,positive
+425,The owner of the home needed to find a new way to clean his apartment because the cleaning techniques he was using were just not working. Covenient the news was reporting on a new local product that could be used to improve cleaning and combat stains.,5,1,positive
+426,Journalists used a data visualization system to explain election results and voter trends during a live media broadcast. The analysis helped viewers understand public discussion and campaign changes.,1,2,Neutral
+427,"A restaurant used data analysis and customer reviews to improve meal recommendations and grocery planning. The software system tracked ingredients, recipes, and pantry storage.",2,5,Neutral
+428,"The workout clinic introduced a new exercise tracking program, but the software produced slow output and frustrating recovery reports. Patients said the weak system made physical training more difficult.",4,2,Negative
+429,A local news article described how rising grocery costs forced families to reduce restaurant visits and change dinner routines at home. Reporters called the economy situation concerning for many communities.,1,5,Negative
+430,"A music streaming service used a recommendation algorithm to organize albums, songs, and genre preferences. Users reported enjoyable entertainment experiences and satisfying playlist suggestions.",3,2,Positive
+431,The government launched a new fiscal policy targeting urban districts. Many residents expressed concern about proposed municipal spending cuts.,1,2,Neutral
+432,A recent algorithm update improved the model's classification accuracy on compressed datasets. The development team praised the deployment pipeline for delivering useful results.,2,1,Positive
+433,The new drama series received excellent reviews for its strong script and layered narrative arc. Critics praised the ensemble cast for delivering a satisfying theatrical performance.,3,4,Positive
+434,Poor sleep habits and a lack of hydration led to serious fatigue episodes among study participants. Doctors warned that disrupted circadian rhythms can worsen physical recovery.,4,1,Negative
+435,The dog knocked over its food bowl and scattered kibble across the kitchen tiles. The frustrated owner spent the evening doing household cleanup before dinner.,5,4,Negative
+436,A popular cooking show on television helped viewers develop healthier meal habits and discover exciting new culinary techniques. The host shared easy pantry swaps for everyday home cooking.,5,3,Positive
+437,Researchers used a Python program to run regression analysis on patient wellness data. The resulting visualization helped clinicians track recovery benchmarks in a useful and efficient way.,2,4,Positive
+438,The journalist's article on the election campaign featured an interview with a candidate who dismissed economic concerns as weak and problematic. Many voters found the coverage deeply disappointing.,1,3,Negative
+439,A new music streaming algorithm clusters songs by rhythm and genre using listener behavior logs. The system gave audiences a more enjoyable and personalized discovery feed.,3,2,Positive
+440,Many families are adopting healthier breakfast routines by adding more fruit and vegetables to their morning meals. Community nutritionists say this supports better energy levels and long-term fitness habits.,5,4,Neutral
+441,"The election coverage was frustrating due to poor media reporting, leaving the public with disappointing and misleading information",1,none,Negative
+442,"The new machine learning model improved prediction accuracy, making it a useful tool for data analysis",2,none,Positive
+443,"The actor delivered a strong performance in the series, receiving excellent reviews from the audience",3,none,Positve
+444,"The software bug caused a serious failure in the database system, making recovery slow and frustrating",2,none,Negative
+445,The novel's dark theme and poor dialogue made it a disappointing read for most of its audience,3,none,Negative
+446,A new algorithm helped doctors improve patient recovery and wellness tracking,2,4,Positive
+447,A government reform program encouraged physical activity and healthy nutrition habits in public schools,1,4,Neutral
+448,The new music streaming software uses a recommendation algorithm to suggest sons based on listening habits,3,2,Neutral
+449,"The government's immigration policy has caused serious debate, with concerning effects on local economy and public health",1,4,Negative
+450,A new data visualization system helps journalists report accurate election statistics and improve public coverage,2,1,Neutral
+451,The new policy on climate action sparked heated debates in Congress.,1,none,Neutral
+452,A powerful new algorithm streamlined data analysis for our research team.,2,none,Positive
+453,My cat and I watched a funny cooking show about homemade treats.,5,3,Neutral
+454,The software update caused major delays in our daily work tasks.,2,none,Negative
+455,The popular workout app partnered with a streaming service for new fitness videos.,4,3,Positive
+456,Local news reported on a new pet-friendly café in the downtown area.,1,5,Neutral
+457,The AI-powered recipe app suggests meals tailored to dietary needs.,2,5,Positive
+458,The author’s latest novel became a viral hit on social media.,3,none,Positive
+459,My dog got sick after eating a spoiled treat from the grocery store.,5,none,Negative
+460,The health tech platform helps users track their exercise and medical records.,4,2,Neutral
+461,The news about the media's outrage over the rising gas prices and inflation over the ensueing war caused massive public outrage and a cry for a peace deal policy,1,none,Negative
+462,The algorithm classification was created on predicting approval rates for all sorts of policies.,2,1,Neutral
+463,"The music album about Taylor Swift featuring Shake It Off, Wild Dreams, You Belong to Me, and Blank Space recieved widespread positive feedback and energy from Spotify and the 2026 audience",3,none,Positive
+464,"I just rizzed my Skibidi blonde princess fan Gyatt she likes me., while she told me to make more faceless content automation AI slop for her of us together during our joint cardio and running routine on Twitch, completley changing the character of our relationship.",1,2,Positive
+465,"I worked out, did curls and rows, but now I look like a roblox character due to my massive traps and deltas, in other words like the CPop shows where you see a guy trying too hard on his physique while the alpha tall dude is the romantic interest.",5,3,Negative
+466,Why are the news so up and in arms about the fires and geopolitics? Why aren't there any positive news on the major news channels? They should care about community wellness.,1,none,Negative
+467,We made a health fitness tracker app with AI that generates customized plans.,2,4,Positive
+468,There hasn't been another ground breaking novel since Harry Potter or Percy Jackson. I think the last Harry Potter book (book 7) came out a while ago; back when I used to read during my recovery periods after high-intensity track or basketball exercise.,3,none,Neutral
+469,"I had to feed my dog floppy some dog food and get him running and cycling on the hamster wheel so he's healthy, transforming his daily activity into a hilarious comedic scene fit for a sitcom episode.",4,5,Positive
+470,"At our cool home we have so many gadgets lying around, some nice rooms, T.V.s, couches, and SOTA AI Strategy Holograms, displaying the plot of a sci-fi drama whiel tracking our dialy posture and sleep habits.",5,none,Positive
+471,A new machine learning framework was developed to help hospitals monitor patient vitals in real time.,2,4,Positive
+472,"The critically acclaimed TV series was cancelled after its third season, disappointing millions of loyal fans.",3,none,Negative
+473,The senator's controversial speech went viral after being covered by major news outlets and late night shows.,1,3,Neutral
+474,The gym's new high-intensity interval training program helped members lose weight and build endurance effectively.,4,none,Positive
+475,"My homemade sourdough bread turned out perfectly after following a step-by-step recipe from a cooking blog, and I tracked my daily steps while it baked.",5,4,Positive
+476,The government's failure to address housing affordability has left thousands of families struggling with rising costs.,1,none,Negative
+477,The new open-source database tool significantly reduced processing time for large-scale data queries.,2,none,Positive
+478,A local news station launched a new AI-powered platform to deliver personalized breaking news to subscribers.,1,2,Neutral
+479,The popular fitness podcast interviewed a bestselling author about the mental health benefits of daily exercise.,4,3,Positive
+480,The marathon training plan recommended by coaches helped athletes improve their personal records significantly.,4,none,Positive
+481,The president gave a helpful speech about tax reform and public approval improved after the debate.,1,none,positive
+482,Local media published an article about the mayor’s campaign and the upcoming senate election.,1,none,neutral
+483,Inflation and a budget crisis created serious concerns for the government and the public.,1,none,negative
+484,The candidate gave an excellent interview about immigration policy and peaceful international reform.,1,none,positive
+485,A new python program used training data to improve the accuracy of a classification model.,2,none,positive
+486,"The database query was slow, and a frustrating bug caused poor software performance.",2,none,negative
+487,The algorithm stored input vectors in memory before running the regression function.,2,none,neutral
+488,The cloud system made data analysis easier with useful statistics and visualization features.,2,none,positive
+489,"The fantasy novel had a great plot, strong characters, and an exciting final chapter.",3,none,positive
+490,The television series had weak dialogue and a disappointing ending that frustrated the audience.,3,none,negative
+491,The mayor used a data dashboard to explain budget changes during the public meeting.,1,2,neutral
+492,The puppy happily played with a toy while the family cooked dinner in the kitchen.,5,none,positive
+493,The fitness app gave poor workout suggestions and made the athlete’s training plan frustrating.,2,4,negative
+494,The novel had excellent character development and a powerful final chapter.,3,none,positive
+495,The senator announced a helpful nutrition program for schools and local clinics.,1,4,positive
+496,"The database stored customer orders, grocery items, and recipe ingredients for the food website.",2,5,neutral
+497,A difficult workout caused painful muscle soreness and slow recovery after practice.,4,none,negative
+498,"The news article described inflation, election polls, and the candidate’s campaign strategy.",1,none,neutral
+499,"The cooking show had disappointing acting, weak dialogue, and a boring dinner scene.",3,5,negative
+500,The software update fixed a serious bug and made the model run faster.,2,none,positive
+501,"The documentary showed runners improving endurance through sleep, hydration, and yoga.",3,4,positive
+502,The restaurant received poor reviews because the soup tasted bland and the service was slow.,5,none,negative
+503,Journalists used charts and statistics to explain changes in public approval ratings.,1,2,neutral
+504,"The singer’s new album had a calm melody, steady rhythm, and acoustic guitar.",3,none,neutral
+505,The government’s health policy caused stressful debates about hospital funding and patient care.,1,4,negative
+506,The machine learning model predicted grocery demand using sales data and pantry trends.,2,5,neutral
+507,"The article described public walking routes, city parks, and a new local fitness campaign.",1,4,neutral
+508,The restaurant’s ordering system had a slow query and caused frustrating meal delays.,2,5,negative
+509,"The grocery app stored food, snack, ingredient, and pantry data in a cloud database.",2,5,neutral
+510,The music show featured a chef preparing excellent soup while the singer performed a pleasant melody.,3,5,positive
+511,"The documentary showed athletes using yoga, nutrition, and recovery routines to improve performance.",3,4,positive
+512,"The family enjoyed an excellent homemade meal with fresh bread, soup, and vegetables.",5,none,positive
+513,The reporter criticized the restaurant policy because rising food prices hurt local families.,1,5,negative
+514,The drama showed a runner facing a serious injury before returning to training.,3,4,neutral
+515,"The recipe website gave helpful dinner ideas based on vegetables, rice, and family preferences.",2,5,positive
+516,The political debate on television had weak arguments and disappointing audience reactions.,1,3,negative
+517,The episode showed a family preparing breakfast while music played in the kitchen.,3,5,neutral
+518,The news podcast used helpful statistics to explain election trends and voter behavior.,1,2,positive
+519,The hospital cafeteria served a disappointing lunch with cold soup and poor flavor.,4,5,negative
+520,"The singer described a calm morning routine with tea, breakfast, and soft music.",3,5,neutral
+521,The city used a helpful app to show restaurant health ratings and food safety reports.,1,5,positive
+522,The doctor’s podcast explained exercise habits with calm music and simple storytelling.,4,3,neutral
+523,The grocery website had a frustrating bug that deleted recipes from the family’s dinner list.,2,5,negative
+524,"The election documentary had excellent interviews, strong editing, and a dramatic soundtrack.",1,3,positive
+525,"The fitness tracker stored sleep data, workout progress, and recovery statistics in the cloud.",2,4,neutral
+526,The cooking show criticized poor school lunch policies and rising grocery prices.,3,1,negative
+527,The election article explained the candidate’s campaign promises and public approval ratings.,1,none,neutral
+528,The Python algorithm made accurate predictions after training on clean data.,2,none,positive
+529,The television episode had disappointing dialogue and a weak ending.,3,none,negative
+530,"The morning yoga routine improved balance, breathing, and flexibility.",4,none,positive
+531,The kitchen smelled unpleasant after the dishes and laundry were ignored.,5,none,negative
+532,"The singer recorded a calm melody with guitar, rhythm, and soft vocals.",3,none,neutral
+533,The software program crashed during testing because of a frustrating memory error.,2,none,negative
+534,"The senator gave a clear speech about taxes, immigration, and public policy.",1,none,neutral
+535,"The doctor recommended daily walking, better sleep, and healthy nutrition.",4,none,positive
+536,The family’s dinner was disappointing because the soup was cold and the bread tasted stale.,5,none,negative
+537,A daily routine of light stretching can help maintain muscle flexibility over time.,4,none,neutral
+538,The new recipe for the chicken dinner resulted in a frustrating experience in the kitchen.,5,none,negative
+539,The streaming service updated the recommendation algorithm to suggest a different genre of music to peo.,2,3,neutral
+540,Feeding your dog a bad diet with low nutrition can lead to problematic and sluggish routines.,4,5,negative
+541,"There has been a lot of strong debate about the economy and bipartisan movements. At the end of the day, people don't care too much about international politics, they care most about home life.",1,5,Positive
+542,"I love Spotify's daylist feature it always plays my favorite hits and suggests newly released bangers. Depending on the time of day, the algorithm gives great reccomendations in a genres like R&B, hip-hop, and rap.",2,3,Positive
+543,"Modern exercise watches are so effective at tracking my overall wellness, they can even check my RHR or HRV. The accuracy of the software has improved so much I can finally track my health data giving me real-time awareness of health metrics.",2,4,Positive
+544,"Being a pet owner of a bigger hound, it is so important for me to play with him otherwise he gets the zoomies! I got another dog to keep him company but this one isn't potty-trained yet, he still marks his territory everywhere!",4,5,Positive
+545,Seems like cancel-culture does not play into how successful new EP or album releases get. People like Drake still drop massive bangers and have great reception from fans all over.,1,3,Positive
+546,"To sustain and nourish the body, it is important to balance mental and physical health. Sleep is so important for health, I'd recommend taking magnesium supplements or reading a novel before trying to sleep.",3,4,Positive
+547,"I can't look at the news or TikTok without seeing news on AI's latest developments. Media portrays AI in different lights but overall, LLMS and agentic AI seems to make people more productive.",1,2,Positive
+548,My favorite children's fable is about a pet turtle racing a hare. Aesop shows the moral of the story is that the most successful people are the most resilient.,3,5,Positive
+549,"To raise my VO2 max, I've been doing cardio training then I love posting my Strava visualization to Instagram. It is so helpful in tracking my training progress, especially when I do 5k or half-marathons.",2,4,Positive
+550,"Audible and Pandora databases are so amazing, mobility of my favorite novels and music has been life changing! I love how a small machine can save a whole library of audiobooks and soundtracks.",2,3,Positive
+551,Dogs are some of the most helpful four-legged animals you can ever have the pleasure to be an owner of.,5,None,Positive
+552,The doctor said it was great that I maintain a regular gym schedule to keep up my physical health,4,None,Positive
+553,A query is a useful tool to extract data quickly from a database,2,None,Positive
+554,A recent news update covered the president giving an excellent speech about peace and equality across the world,1,None,Positive
+555,The song Billie Jean has recently began charting in the top 100 songs again because of the positive audience reaction to the movie ‘Michael.’,3,None,Positive
+556,Comedy series are always one of the most enjoyable genres to binge on television because the dialogues are hilarious,3,None,Positive
+557,My family was frustrated with me because I hadn’t been cleaning or doing the laundry while they were gone,5,None,Negative
+558,Concerts are seeing a decline of audiences as the economy continues to worsen and leave less room for people to spend money on entertainment.,3,1,Negative
+559,The medicine Tory was taking for her sleep was causing symptoms that were negatively affecting her diet and breathing,4,None,Negative
+560,A bug can be very problematic and can cause a plethora of issues such as a network or system going down until it is fixed,2,None,Negative
+561,"The election sparked backlash and misinformation, creating a stressful night for many viewers.",1,None,Negative
+562,"The algorithm required debugging and encryption, but a frustrating delay blocked the project.",2,None,Negative
+563,"The novel had awkward pacing and flat narration, causing a disappointing reading experience.",3,None,Negative
+564,"The exercise caused fatigue and soreness, making the morning session difficult for beginners.",4,None,Negative
+565,"The kitchen sink overflowed near the refrigerator, creating a frustrating mess before guests arrived.",5,None,Negative
+566,"The election confused the pollster and mandate tracker, while the algorithm’s debugging and encryption problems became frustrating.",1,2,Negative
+567,"The algorithm had debugging and encryption flaws, while the novel showed pacing and narration problems, making it disappointing.",2,3,Negative
+568,The novel’s pacing and narration issues made exercise feel difficult because fatigue and soreness distracted the group.,3,4,Negative
+569,"After the health check, fatigue and soreness made the kitchen sink and refrigerator problems feel frustrating.",4,5,Negative
+570,The meal near the stove and cabinet was delayed after the election ballot rally became stressful.,5,1,Negative
+571,The patient's slow recovery required intensive healing and specialized rehabilitation to restore their mobility after the car crash.,4,None,Negative
+572,A difficult backend server system caused chaos for the chef updating the online menu at the local restaurant.,2,5,Negative
+573,The family renovated their kitchen by installing a modern fridge and custom wooden cupboards for additional storage space.,5,None,Neutral
+574,The representative presented a detailed report to Congress regarding upcoming infrastructure developments for his constituent districts.,1,None,Neutral
+575,"This novel features a complex protagonist and elegant but clean prose, making it a standout selection for the publisher to promote.",3,None,Neutral
+576,This algorithm optimizes complex computation tasks to improve the overall efficiency of the processing unit during high-traffic periods by utilizing weighted nodes across the tree.,2,None,Neutral
+577,The mayor signed an ordinance establishing a new policy to increase health resources and vaccination access for every resident regardless of their healthcare insurance status.,1,4,Neutral
+578,A talented artist utilized a specialized software plugin in Logic Pro that uses improved FFTs to better improve EQ balance in his songs.,2,3,Neutral
+579,Incorporating fresh produce like fruit from the harvest into your diet provides essential vitamins for a healthy metabolism.,4,5,Neutral
+580,The press and local broadcaster provided media coverage of the actor during his final rehearsal at the city theater.,1,3,Neutral
+581,The city council has published the official voting schedule for the upcoming election network.,1,2,Neutral
+582,A data analyst monitored the network traffic during scheduled server maintenance.,2,1,Neutral
+583,The author submitted a new novel manuscript to the publisher for them to review.,3,None,Neutral
+584,The fitness instructor demonstrated how to properly brace during the afternoon lesson.,4,None,Neutral
+585,The staff changed the feeding routine for the animals at home.,5,None,Neutral
+586,A government agency released a report about national internet connectivity statistics,1,2,Neutral
+587,A local news reporter interviewed a classical musician about theatre history.,1,3,Neutral
+588,A wearable sensor transmitted my heart rate data to the software program on the computer.,2,4,Neutral
+589,The platform updated its database to index the music files for the tv show.,2,3,Neutral
+590,The veterinarian checked on the dog's hydration levels during the morning checkup.,4,5,Neutral
+591,Our software patch resolved the persistent bug. This system is good now.,2,None,Positive
+592,My terrible sleep habits impact my physical energy. I am becoming weak.,4,None,Negative
+593,My favorite artist just released a new album. It has 20 songs.,3,None,Neutral
+594,Many citizens voted in the yearly election. The media report on it is great.,1,None,Positive
+595,"After moving the furniture around in my apartment, I sat down and ate a snack.",5,None,Neutral
+596,I created a python program that automates generating recipes. This data it gives the user is useful.,2,5,Positive
+597,Trying to change my dog's routine is stressful. He is all over the place.,4,5,Negative
+598,The journalist hosted an interview with the author. It was a long talk.,1,3,Neutral
+599,A network error caused the television streaming service to crash. This was disappointing to me.,2,3,Negative
+600,The news report gave information on fitness routines. It was helpful for me.,1,4,Positive
+601,The mayor skipped the budget debate. Local coverage was poor and the discussion went nowhere.,1,none,Negative
+602,Voter turnout this election was higher than any report in years. The campaign was successful.,1,none,Positive
+603,The senate passed a new immigration policy after weeks of discussion. Vote was close.,1,none,Neutral
+604,Inflation headlines keep getting worse and the government's reform has been slow and disappointing.,1,none,Negative
+605,The journalist's interview with the candidate was helpful and honest. Great campaign coverage.,1,none,Positive
+606,Found the bug finally. Fixing it improved the model's accuracy way more than expected.,2,none,Positive
+607,Ran clustering on the dataset and the visualization made everything clearer. Really useful.,2,none,Positive
+608,The python script kept crashing with a memory error on large input. So frustrating to debug.,2,none,Negative
+609,Team is testing a new algorithm for classification. Early prediction results are okay so far.,2,none,Neutral
+610,Cloud storage hit its limit mid-training and the program crashed. Serious failure.,2,none,Negative
+611,The author's new novel has a strong plot and real characters. Genuinely enjoyable read.,3,none,Positive
+612,The album dropped with no hype and still charted. Lyrics and melody are excellent.,3,none,Positive
+613,Series got renewed but the director left. Hard to say how the next episode will feel.,3,none,Neutral
+614,The concert was disappointing. Artist performed poorly and the sound was bad all night.,3,none,Negative
+615,The script is okay but the dialogue feels weak and the plot drags in places.,3,none,Negative
+616,Three weeks of cardio and yoga and my energy is improved. Sleep got better too.,4,none,Positive
+617,Kept skipping physical therapy and the injury got serious. Doctor wasn't happy about it.,4,none,Negative
+618,"The clinic tracks patient activity, diet, and sleep as part of a wellness study.",4,none,Neutral
+619,Building a workout habit is difficult at first but the physical benefits are strong.,4,none,Positive
+620,Stress has been harmful to her sleep and the symptoms are more concerning now.,4,none,Negative
+621,Dog destroyed the furniture again. Third leash this month. Frustrating and expensive.,5,none,Negative
+622,"Made soup with leftover vegetables and bread. Turned out great, flavor was excellent.",5,none,Positive
+623,Apartment has a small kitchen but the cooking routine works fine for one person.,5,none,Neutral
+624,Adopted a cat last week and the whole family is happy. She's already figured out her bowl.,5,none,Positive
+625,Grocery bill keeps going up and the restaurant meals aren't helping. Budget looks poor.,5,none,Negative
+626,Government released election data and researchers used a python algorithm to analyze voter patterns.,1,2,Neutral
+627,A software bug corrupted the vote database on election night. Serious crisis and disappointing coverage.,1,2,Negative
+628,The new policy database is easier to query now. The analysis tools are effective and useful.,1,2,Positive
+629,The documentary about the senator's campaign had strong reviews. Exciting to watch.,1,3,Positive
+630,"The drama based on a political crisis got pulled from broadcast. Weak ending, disappointing.",1,3,Negative
+631,A journalist turned war reporting into a novel. Story covers global conflict across several chapters.,1,3,Neutral
+632,The health reform expanded clinic access and improved treatment options. A successful policy.,1,4,Positive
+633,Budget cuts killed the local wellness program. Mental health in the community is getting worse.,1,4,Negative
+634,New food safety law requires restaurants to list all ingredients. Owners say it's difficult but helpful.,1,5,Neutral
+635,Government cut the farm subsidy and grocery prices got worse. Affording a meal is difficult now.,1,5,Negative
+636,Streaming algorithm got better at predicting genre. Recommendations feel more helpful and accurate.,2,3,Positive
+637,Music platform's classification model keeps failing. Output is poor and the results are frustrating.,2,3,Negative
+638,Researchers built a corpus of lyrics and ran token analysis to study themes across albums.,2,3,Neutral
+639,Fitness app prediction model improved a lot. Gives helpful recovery and nutrition tips after workouts.,2,4,Positive
+640,Health data storage had a serious failure and records were lost. Harmful and concerning outcome.,2,4,Negative
+641,Wearable outputs sleep and activity data that feeds into a machine learning wellness model.,2,4,Neutral
+642,"App recommends dinner recipes based on pantry ingredients. Excellent feature, effective for cutting waste.",2,5,Positive
+643,Pet training software gave wrong output all week. Bowl sensor data was bad and system slow.,2,5,Negative
+644,Book on building a fitness habit made exercise feel enjoyable instead of stressful. Great read.,3,4,Positive
+645,Wellness podcast spread harmful advice about skipping medicine. Slow to get taken down.,3,4,Negative
+646,Cooking show made the recipe look easy and the flavor was excellent when I tried it.,3,5,Positive
+647,Food critic's review was poor and the restaurant's response made everything worse.,3,5,Negative
+648,"Home series covers cleaning routines, pet care, and meal prep. Good enough for a Sunday watch.",3,5,Neutral
+649,Gardening became a daily habit. The physical activity and fresh vegetables make it satisfying.,4,5,Positive
+650,Dog hasn't walked since his injury. Vet says the slow recovery is making his activity worse.,4,5,Negative
+651,"The new horror movie, Obsession, has the entire internet captivated. Audiences, occasionally scared at times, have reported positive experiences with the movie.",3,None,Positive
+652,"Elementary schools promote an active lifestyle to their students, teaching them the importance of enjoyable daily exercise by promoting simple games, such as tag, that count as exercise.",4,None,Positive
+653,"His new dog refused to drink water from his bowl unless he got to play with his chew toy first. All attempts at witholding the toy were more than disappointing, with the dog sadly pawing until his toy was given.",5,None,Negative
+654,"All the recent news articles have been anything but mundane, discussing international battles over land disputes and territories.",1,None,Neutral
+655,"A compiler design class focuses on translating higher leveled coding languages into lower leveled ones, discussing mainly the fundamentals, such as different methods of analyzing words and parsing.",2,None,Neutral
+656,"A Random Forest model is unable to accurately predict a location's property value within 10000 dollars unless provided with the exact street and city, which reduces potential nuisance factors.",5,2,Negative
+657,"Her favorite fictional novel involves an extremely strong pirate, who always ensures he runs 80 laps around the ship every morning, stopping to do 10 pushups after each lap. The other pirates still have not gotten used to his routine, much to many readers' delight.",3,4,Positive
+658,"In a recent dream, my cat ran for county supervisor for the first district of Riverside, meowing and purring with delight when she was elected.",1,5,Positive
+659,"This new science fiction novel involves a protagonist who is fluent in many coding languages, including python and SQL, and utilizes these to code supervised learning models.",2,3,Neutral
+660,"This just in: average presidental jogging speed increases during times of peace, with our current president's speed being slower than the last. White House officials are investigating whether this phenomena is real before any concern should be raised.",4,1,Negative
+661,The politician wants to pass a useless bill that will harm citizens rather than help. ,1,none,negative
+662,The Computer Science major looked at their code with tired eyes trying to debug the function.,2,none,neutral
+663,The novelist flipped through the pages of her masterpiece with utter joy and ecstasy. ,3,none,positive
+664,The pilates instructor demonstrates proper form on the reformer to the class.,4,none,neutral
+665,The parrot ate its cracker and flapped its wings in glee. ,5,none,positive
+666,The yoga and mediation class was extra serene with the addition of swans floating in the lake.,4,5,positive
+667,"The actor played an elf in the new fantasy production in theaters, this performance is endorsed by the governor.",3,1,positive
+668,The engineer throws their computer at the wall and opens a comic book out of frustration.,2,3,negative
+669,The stressed out film director took up tennis to relieve some pent up aggression.,3,4,neutral
+670,"The sick puppydog ate some of his kibble, his health has been horrible.",4,5,negative
+671,"A new study came out analyzing the relationship between performance in key computer science classes and overall programming ability to student health. The linear regression analysis found that combining factors like sufficient sleep, overall mood and stress levels can predict student performance in undergraduate classes like assembly language, databases and compiler design. The study shows the effect of academic stress on health, showing links to hypertension, immune suppression, and insomnia.",4,2,neutral
+672,"Pessimism about the economy is more common than ever, with many young adults entering the workforce not being able to find employment. Essentials like rent and groceries are price-gouged and many people find their current financial situation to be stressful and precarious.",1,,negative
+673,I saw the cutest most adorable little puppy today when I was walking to class. His owner said he's six weeks old. I think he was a pug from his squishy little face but I'm not entirely sure what species he is and I didn't ask. She had been training him well because he responded to commands that she spoke in Spanish. He seemed very excited to be outside because he was jumping and wagging his tail. I wanted to pet him but I didn't want to be late to class so I couldn't stay too long.,5,,positive
+674,"My favorite page in the first edition of their literary magazine was written by the creator herself. It was hilarious because she's a pretty good writer. The smallest details of her work are soaked through with meaning, which is why her writing style shines in short form fiction. Her style is colloquial and conversational, at times crude and provocative, yet always profound. Her dialogue is well written, realistic and minimal but still meaningful.",3,,positive
+675,"Louie Zong's bittersweet electronic song off the album Bossa was a test of a Virtual Singer program that generates an electronic voice. Because of this it was named ""Hello World"" as an allusion to the program first taught in many introductory programming classes as a test of running a simple program. The song is sung from the perspective of a conscious computer or robot questioning its existence and purpose. Verse 1 begins ""Find my voice, although it's filled with bits and bytes."" The lyrics reference computer related concepts like memory storage as a metaphor and expression of the robot's internal feelings.",2,3,neutral
+676,I dislike yoga because I hate contorting my body into weird positions for random amounts of time. It just seems stupid and frustrating. My muscles are often too weak to hold the positions for very long. Especially planks. I really hate doing planks because its really difficult. Really anything requiring arm muscles is hard. My biceps are so weak they're like a seventh grade architecture final project made out of toothpicks and marshmallows. I don't know how the pilates girls do it.,2,,negative
+677,"A band I really like called Cheekface is going on tour. Their music is fascinating because on one hand they have catchy riffs and regular banger indie rock choruses but they do this interesting combination of speaking and singing for other parts of the song. They really play with how their lyrics are enunciated. It comes off as somehow both ironic and sincere, a dialectic of irony and sincerity, or a sincerity ""through"" irony. Cheeky and facetious, as their name suggests. Their lyrics are sometimes random and sometimes genius. It's real effective in the context of their songs because many of their songs are tangentially about personal and/or political issues that are sweeped under the rug.  The single ""Hostile Street"" and the song ""You Always Want to Bomb the Middle East"" on their album Too Much To Ask explores this idea of ""the personal is the political"" because it expresses political conflict as if it were a domestic argument among wife and husband, which feels absurd yet true. The personal is the political, and their lyrics reflect that. This slogan originally comes from the feminist movement but it is applicable across a wide range of political movements. Here the concept gives their music an archetypal significance, as their tagline ""America's favorite band"" suggests.",3,1,positive
+678,"I spent two stupid hours on this stupid idiot bug that was causing my data to not tokenize correctly because I swear I removed all the symbols so I could tokenize only the words and put them in the vector. Its so frustrating. The code in later cells wouldn't even compile. When I finally figured it out, I didn't try to fix the runtime error that came up or run my naive bayes algorithm or KNN for sentiment analysis after that because I was so done with this stupid program. Literally just ragequit and needed to take a breather cuz it was so stressful.",2,,negative
+679,"Many people have different preferences when it comes to what form of exercise they choose. Some people prefer cardio like jogging, biking, or really any activity that raises heart rate for a consistent period of time. Some people prefer muscle training like lifting weights or using weight machines, or even calisthenics if you don't have access to equipment. But exercise is only one part of the many factors that lead to good health. Diet is a big factor, so many people meal plan to save time, stocking their kitchen with healthy lunches for the week that contain lots of protein, fiber and vitamins. However you must be mindful doing this because some food can spoil very quickly, even if it is stored in the refrigerator.",4,5,neutral
+680,"Psychiatric classifications rarely constitute distinct entities and taxonomies are often arbitrary and ideological. Rarely do psychiatric diagnoses constitute distinct entities, rather a process of reificiation in which classifications are projected onto a complex range of symptoms that sometimes cluster together and sometimes do not. It is often an egregious mistake of underfitting to apply these diagnoses to real people when many symptoms transcend diagnoses and then an even more egregious error to assume from there that the reified disorder itself ""causes"" these symptoms. This isn't even the norm in other fields of medicine that deal with complex conditions that may have multiple causes, like fever, hypertension, or chronic fatigue. This leads to the increasing popularity of transdiagnostic models. Running large amounts of data through certain classification algorithms may provide a more unbiased alternative to traditional methods of classification, although bias is inescapable because data analysis requires personal decisions on how to analyze data. The matrix of correlations between each question on the cross-cutting symptom measures is run through principal components analysis to extract underlying factors, showing the relationships between symptoms. For example, anxiety and depression are considered distinct disorders, but as most clinicians learn, and this model shows, they are so deeply correlated with one another that they could be considered different symptoms of the same disorder. In this new model they are both included in the ""Internalizing"" dimension, but traditional psychiatric models fail to show these relationships.",2,4,negative
+681,The political rally gathered to protest the president's warmongering.  He literally started a war to distract from the fact that he in the files.,1,none,neutral
+682,The computation required for the student's implementation of the algorithm were far beyond the asymptotic estimate.,2,none,neutral
+683,Prog rock is a form of complex and heavy artistic music.  The band Tool in particular has generated masterpieces over several decades.,3,none,neutral
+684,"Endurance training is a core aspect of cardio.  As much as a loathe getting on the treadmill for long periods of time, it is important.",4,none,negative
+685,"I used to hate cooking, but i've learned to enjoy act of assembling cuisine in my kitchen and eating enjoyable homecooked meals.",5,none,positive
+686,"I am eager for reform of our courts and systems of representation.  We need intelligence instead of drama, theatre, and distraction.",1,3,positive
+687,The portrayal of programmers on television is comical at best.  Performers hammering on keyboards is annoying.,2,3,negative
+688,"I wish there were more heartwarming movies about animals.  Watching puppies and kittens interact is chicken soup for the soul, told visually through a screen.",3,5,positive
+689,I had hoped to train my cat to walk with a leash and harness.  She instead chose to pounce into bushes and jump on top of objects to scout for rabbits.,4,5,neutral
+690,"Nyan cat is an infamously awful piece of music, featuring annoying meowing, a disgusting electronic beat, and a poorly animated kitty face on a toaster strudel.",5,3,negative
+691,I hate that Tomodachi Life: Living the Dream does not include the concert hall. I was looking forward to songwriting and choosing tunes for my Miis' performance.,3,None,Negative
+692,"EPIC is a musical with a soundtrack that is trending online. The lyrics may not be deep, but I love how catchy the melody is, and I can't wait for the movie to be released soon.",3,None,Positive
+693,"In Hamilton, the actors sing about the Constitution and the push for a strong federal government on stage through hip-hop and rap music.",1,3,Neutral
+694,"We have a repository to store files and data to create an app that tracks health information like BMI, weight, and height.",2,4,Neutral
+695,Her daughter had a positive experience on her appointment with the pediatrician. The pediatrician said she was healthy since she has added apples and oranges to her diet.,4,5,Positive
+696,The news reporter briefly discussed the status of President Trump's health. It seems that he is experiencing cognitive decline and symptoms related to dementia. ,1,4,Negative
+697,"We tried the viral lasagna recipe from TikTok. It had a horrible sour aftertaste, so we threw it into the trash.",5,None,Negative
+698,I love that food in animations look so appetizing. It's like I can taste the dishes through the screen.,3,5,Positive
+699,"In my computer science class, I learned how to code recursions and loops in Python.",2,None,Neutral
+700,One of my favorite desserts is tiramisu. I am actually going to the grocery store to buy the ingredients.,5,None,Positive
+701,A public discussion on budget reform generates mass approval for the new bill. The bill receives strong support from the public.,1,none,Positive
+702,A major bug was discovered after investigative journalists uncovered the issue. Now the software has been recalled and taken off shelves.,1,2,Negative
+703,Streaming numbers for a hit TV Show highlights declining viewership. The visualization generated shows it declining.,2,3,Negative
+704,A lack of sleep leads to decreased energy and higher risks of physical injuries.,4,none,Negative
+705,A local restaurant is covered by the media as the best Italian restaurant in town. The restaurant sees an increase in customers.,1,5,Positive
+706,"Directors love to use orchestral sound for their soundtracks, as it enhances the viewing experiences. Music charts would evidently see the same result with consumers in the following weeks.",3,none,Positive
+707,The 8086 is a processor that was used in the IBM 5150. It became the industry standard.,2,none,Neutral
+708,Compaq's inability to adapt to growing supply chain needs led to its vertical merger with Hewlett-Packard. Compaq does not exist today.,2,none,Negative
+709,My routine everyday is to wake up and brush my teeth. It gets me ready for the day and sets me in a positive mood.,4,none,Neutral
+710,My neighbor enjoys cycling along the hills. He tells me that it helps with his cardiovascular system and reduce the risk of heart disease.,4,none,Positive
+711,"A common theme in producing TV comedies is the use of a laugh track. While some may find its antiquated, it is still regularly used in other comedy programs.",3,none,Neutral
+712,"Cher, the singer, utilized auto-tune to produce one of the biggest hits of the 1990's. It is a song well-beloved to this day.",2,3,Positive
+713,"Immigration coverage in the United Kingdom had a strong effect on the outcome of Brexit. Due to the topic of increased immigrants in the UK, Brexit passed as citizens viewed immigration to be the key issue.",1,none,Negative
+714,Hospitals use algorithms to determine effective prevention methods to reduce injuries. The effect of the research saw a decrease in injury-related hospitalizations.,2,4,Positive
+715,A public concert saw great turnout from the public after local media coverage highlighted the event the night prior.,1,3,Positive
+716,Reforms for congestion pricing saw negative polling numbers. Officials are expected to revise their proposals and submit a new one by Friday.,1,none,Negative
+717,A doctor performs an annual checkup for a college student. He finds nothing of concern.,4,none,Neutral
+718,"Every Wednesday, it is common for my family to put the trash out. It is picked up the next day by garbage trucks.",5,none,Neutral
+719,A wellness counselor launches a set of meditation classes. The classes provide effective time for students to de-stress.,4,none,Positive
+720,A garden becomes the site of a mayor's election campagin launch. The garden is visited by many people as a result.,1,5,Neutral
+721,The author's newest book release has completed her triology and is set to win many awards.,3,none,Neutral
+722,The president has lost the endorsement of many voters after it was found out that he won mainly by gerrymandering. His supporters are devastated.,1,none,Negative
+723,Human anatomy required proper macronutrients as well as micronutrients to maintain good health. ,4,none,Positive
+724,Certain breeds of cat at adoption centers are more neglected than others. The sound of their sad purrs echo through the building.,5,none,Negative
+725,Many reccomendation algorithms tend to be biased towards popular products. It is important to investigate yourself what is best for your needs.,2,none,Neutral
+726,"If a leader can't perform proper calculus or algebra, can we really trust them to run the country properly?",1,2,Neutral
+727,The manuscript for the prologue of a beloved series about fine dining cuisine tastings has been leaked leaving fans hopeful about a possible new season.,3,5,Positive
+728,A concerning new side effect has been diagnosed for a popular new prescription used to treat fleas and ticks on pets.,4,5,Negative
+729,The season finale for the advanced mathematics and LLM training competition has just ended after many years of broadcast. ,2,3,Neutral
+730,The governor and foreign ambassador has been released from the hospital feeling great after overcoming severe joint and respiratory problems.,1,4,Positive
+731,"In recent events, a smear-campaign has begun over the upcoming candidates for several democrats and republicans” running for state governor. It is led by fake AI chatbots being programmed to output generated text relating to each candidate's criminal record.",1,2,Negative
+732,"Many people find fulfillment in having an AI assistant. It can automate tasks, respond to emails, and provide writing feedback. It also reduces anxiety, workload, and increases energy.",2,4,Positive
+733,"The show Impractical Jokesters is hilarious and healthy to watch. It is a hidden-camera comedy show which follows 5 comedians. Also, laughing is good for removing stress by lowering cortisol, boosting immunity, and improving mental-health.",3,4,Positive
+734,"To improve your sleep, one could try to take melatonin supplements, drink warm milk, or (at home) light a flowery candle.",4,5,Positive
+735,"Young families should introduce their children to coding as early as possible. Programming can be taught as a game at lunch, with educational toy robots, or on kid-friendly websites. The easiest language for kids to learn is python.",5,2,Neutral
+736,"I read a tweet that you can only rely on reliable sources for news, such as a verified news channel, established newspapers, and occasionally the radio.",1,none,Neutral
+737,"It is difficult to self-learn programming. There are too many languages, unverified public datasets, and the terminals can be confusing for a first-time user.",2,none,Negative
+738,"National Geographic is a documentary company about nature. It has films, short videos, and magazines on a range of scientific knowledge.",3,none,Neutral
+739,"Smoking is injurious to one's health. Over time, it leads to addiction and eventually cancer. It also makes one more susceptible to sickness.",4,none,Negative
+740,"For lunch, I had Indian food. This includes a type of Indian bread, a chicken curry, and some raw salad.",5,none,Neutral
+741,The mayor gave a speech about harbor safety. Firefighters tested radios near the dock after the city announced a public safety update.,1,none,Neutral
+742,"A python program sorted museum tickets. Scanners checked badges during visitor check-in, making the front desk process faster and easier.",2,none,Positive
+743,The actor changed the scene during rehearsal. Masks and lanterns made the stage feel mysterious before the evening performance.,3,none,Neutral
+744,"Morning yoga improved her posture during recovery. Cushions and stretches made the routine pleasant, useful, and effective.",4,none,Positive
+745,The garden table was ready for a picnic. Candles and napkins made the family meal more enjoyable on a quiet afternoon.,5,none,Positive
+746,The election report explained the city vote. Ballots and precincts were reviewed carefully before officials shared the public results.,1,none,Neutral
+747,The database query failed during testing. Brackets and timestamps caused a frustrating delay while the team searched for the error.,2,none,Negative
+748,The song lyrics sounded uneven. Echoes and choruses made the performance disappointing for audience members watching the broadcast.,3,none,Negative
+749,The doctor discussed hydration with runners. Charts and bottles helped explain healthy race preparation before the weekend event.,4,none,Neutral
+750,The recipe used fresh vegetable slices for dinner. Noodles and herbs added flavor to the meal without making it difficult.,5,none,Neutral
+751,"When the gorvenment issued an emergency regulations during Covid-19, scared citizens started panic buying. This rapid hoading led to severe shortages of essential good and choas in marketplace. ",1,5,Negative
+752,The average citizen faces a bosy mass challenges because of the failure in regional food suppliesThe lack of accessible medical care inflict a long term metabolic problem. ,4,5,Negative
+753,"The gorvernent keeps mention that the marcoreconomic indexes are under control, but the inflation is still on the rise. The consumer complain about the prices of grocery that a single bag of basic food requres a second mortgage. ",1,5,Negative
+754,There is a lot of controversies about the datacenter near the suburban neighbor. The homeowners concern about the noise and a massive water consumption that the data facilities used. ,2,5,Negative
+755,Freak Ocean produced such an incredible R&B music. His vocal has a beautiful soul with a narrative style of lyrics. ,3,None,Positive
+756,A sunny day in Spring is a great time to take a dog to a park. It is a great way for an active pets to run around outdoor under a clear blue sky. ,5,None,Positive
+757,"When facing an adcademic pressured, many students make bread from scratch to comfort their soul. The warm aroma of freshly baked loaf rewards them with a beautiful hot food. ",5,None,Positive
+758,The average waiting time at ER is closer to 6 hours before a physician seeing a patients. ,4,None,Neutral
+759,There are an animated One Direction cartoon that not a lot of people know about. This nostalgic show features the band members as the superheroes like Powerpuff girl. ,3,None,Neutral
+760,"Nick Digiovanni published his recipe book call Knife drop that feature some creative recipes that anyone can cook. Each page, there is a scannable barcode that links to digital instructional guides video. ",2,5,Neutral 
+761,The current news is very stressful. I hope that the war between Russia and Ukraine will end soon.,1,none,Negative
+762,I wonder how python will change in the future. I'm positive that it can become better than Rust and C++.,2,none,Positive
+763,"It is frustrating to read Shakespeare. Although he is a good author, I personally find books like Macbeth to be boring.",3,none,Negative
+764,I find daily walking a very enjoyable experience as it almost feels like I am meditating. Sometimes I will also play rugby if I have the chance.,4,none,Positive
+765,Dogs and cats are stressful to take care of. Some of the most stressful breeds are Ragdoll cats and Corgis.,5,none,Negative
+766,I wonder how the economy will be due to Trump and his cabinet.  Machine learning algorithms such as ensemble trees can make predictions on the economy.,1,2,Neutral
+767,Exercise with body movement such as calisthenics or barbells benefits your health. A dinner of chicken and asparagus after helps build muscle.,4,5,Neutral
+768,We can make predictions on the ratings an author will receive by using K-NN or XGBoost. It can also be used to predict ratings for Netflix and Hulu shows.,2,3,Neutral
+769,"I felt so happy when my dad brought home my dog, who is a mix of a terrier and chihuahua. I always enjoy a workout with her whether it is tennis or sprints!",4,5,Positive
+770,Entertainment such as the Cars movie or Teletubbies targets kids. Realtors target adults with a big home like mansions or a penthouse.,3,5,Netural
+771,Skipping breakfast and relying on coffee alone is a poor habit that negatively impacts energy and muscle recovery throughout the day. Nutritionists warn this is harmful long term.,4,5,Negative
+772,A food delivery app uses a clustering algorithm to group customer orders by neighborhood and cuisine type. Developers say the system helps reduce delivery time and kitchen backlog.,2,5,Neutral
+773,A documentary about the presidential election won several awards at this year's film festival. Critics say the storytelling and cinematography made it an enjoyable and excellent watch.,1,3,Positive
+774,The mayor announced a new public wellness initiative focused on outdoor movement and community fitness. City planners are evaluating park expansions and pedestrian zones across local neighborhoods.,1,4,Neutral
+775,Rising inflation is making it harder for families to afford groceries and pet food. Many owners report cutting back on their cat and dog's meals which is concerning.,1,5,Negative
+776,The author's latest novel got poor reviews for its slow pacing. Readers say the cliffhangers and foreshadowing never paid off in a satisfying way.,3,none,Negative
+777,The leftover soup in the fridge had gone bad by the next morning. Mold and spoilage are serious concerns when food is not stored properly.,5,none,Negative
+778,The congress released a new immigration bill last Tuesday. Analysts are still reviewing the amendments and rider clauses attached to it.,1,none,Neutral
+779,Adding a short yoga session to your morning routine is a great way to improve flexibility and focus. Many people report feeling energized for the rest of the day.,4,none,Positive
+780,The new python script runs the data pipeline in half the time. The refactoring and modular design made it an excellent improvement overall.,2,none,Positive
+781,"The fitness app released a new software upgrade that syncs up with wearable devices, allowing you to track you metrics and celebrate personal milestones",2,4,positive
+782,"A bug was traced back to a bad script that needed to fully rewritten, and the rushed onset of the deadline made everything worse.",2,3,negative
+783,"The immigration intake process has been overwhelming for many months, causing many families to be displaced and be stuck in a limbo as they wait for relocation and settlement support at home",1,5,neutral
+784,Eating processed and frozen food packed with preservatives led to a nutrition deficiency that kept worsening with no clear solution provided,4,5,negative
+785,"The author recently gave a candid interview on her recently publishes memoir, this caused very major media outler to run with it by the end of the day",1,3,positive
+786,"The streaming platform had decided to move its entire catalog to cold storage, which cut costs but caused buffering issues and made archive compression a major issue",3,2,neutral
+787,"Residents have decided to stage a protest after the city had announced that the community garden will be demolished as a part of rezoning plan, leaving behind an overgrown patch of land",5,1,negative
+788,"The artist had started therapy during the most intense rehearsal period of her career, and this had helped shift her mindset and help her deliver the best performance of her life without the ususal backstage burnout",4,3,positive
+789,"A new automation tool helps streamline the recipe workflow by handling portioning and swapping out items based on availability, help cut down prep time significantly",5,2,neutral
+790,"After the singer's debut acoustic set, it had ended with a homemade meal spread backstage, and everyone in the crew said it was one of the most enjoyable nights they'd had",3,5,positive
+791,"Usually on the weekend people like to do chores like grocery shopping, meal prep, laundry and cleaning so that they are ready and organized for the week",5,none,neutral
+792,"Overthinking and anxiety are symptoms of anxiety disorders, which in some serious cases might not be manageable with just self-care",4,none,negative
+793,The Bollywood film industry is known for making glamorous and elaborate films with a high budget production,3,none,neutral
+794,Statistical analysis of a corporation's financial history helps uncover patterns and make data driven strategic decisions,2,none,neutral
+795,the MUN conferences held in school are helpful to students as they learn how to debate on global and historic issues and draft resolutions,1,none,positive 
+796,Actors and actress who go on press interview to promote their movie and use them to mention the ongoing war and crisis aims to raise awareness and call for humanitarian aid,1,3,positive 
+797,Pet owners usually have to take their pet out for walks to release their energy. This can also be a effective way to exercise take care of your well- being at the same time,4,5,positive 
+798,Recommender-system models can be trained recommend books by similar authors or series produced by the same production-house,2,3,neutral
+799,"Getting a poor amount of sleep with bad nutrition can be problematic for your health. This includes not eating eating enough protein, fibre and carbs like fruits and vegetables",4,5,negative
+800,"People find it enjoyable listening to music while running as it keep them in the rhythm, while some people also watch some series or podcast while walking on the treadmill this way they are getting some movement and are also not bored",3,4,positive
+801,"The government used surveillance, to sucessfully see if people had legitimate citizenship. ",1,none,positive
+802,"For their CS105 class, the students had to use spreeadsheets to create corpuses and then create visualzations with classifiers, which many found frustrating",2,none,negative
+803,"The singer, Shawn Mendes' latest release went viral among on all streaming platforms.",3,none,positive
+804,"To build endurance, he went to the gym and spent less timing stressing over little things.",4,none,neutral
+805,"She bought a new bird, and he began to seriously litter partts of their home, such as the hallway",5,none,negative
+806,"Their efforts to debug the code for their project, revealed issues with the current voting system. The adminstration decided to implement their efforts to create policy reform. ",1,2,neutral
+807,The girl used her knowledge in data science to create a new application for worship music. Her interface was sucessfully developed using her knowledge as a vocalist.,2,3,positive 
+808,"The greedy filmaker wanted his television situation-comedy, to have sponsporships, for vitamins and supplements. ",3,4,negative
+809,"The couple sought out counseling with the therapist, because they kept fighting over leftovers and seasoning. ",4,5,negative
+810,"The ferret knocked over the chandlier onto the stove, causing a fire, which was publicized in the magazine. ",5,1,neutral 
